@@ -1,0 +1,709 @@
+[
+  {
+    "event": "Election Night 1860",
+    "author": "Abraham Lincoln",
+    "claims": [
+      "The election of Abraham Lincoln was known by November 7, 1860, prompting discussions about his subsequent actions as President-elect.",
+      "Following the election, there were concerns about 'mischief makers' and 'causeless anxiety' among the public, leading to requests for Lincoln to issue a calming public statement.",
+      "A 'commercial or financial depression' was perceived to exist in the aftermath of the election, which Lincoln attributed to political opponents he termed 'respectable scoundrels'.",
+      "Prior to the election, circulars were distributed portraying Lincoln as a 'dangerous radical' and 'an enemy of the institutions of the South and of the peace and security of the Union', whose policies were 'unsettling to the commercial life of the country'."
+    ],
+    "temporal_details": {
+      "date": "The election had occurred by November 7, 1860; subsequent discussions and Lincoln's response range from November 7 to November 10, 1860.",
+      "time": "Not explicitly detailed beyond dates."
+    },
+    "tone": "Lincoln's tone is firm, principled, and resolute. He expresses a strong sense of self-respect in refusing to make additional public declarations to appease post-election anxieties or critics, viewing such an act as sycophantic and emboldening to his detractors. He is dismissive of those he blames for post-election unrest.",
+    "source_id": "loc_mal0440500",
+    "source_title": "Abraham Lincoln papers: Series 1. General Correspondence. 1833-1916: Abraham Lincoln to Truman Smith, Saturday, November 10, 1860 (Lincoln will not issue a public statement to reassure the South)"
+  },
+  {
+    "event": "Fort Sumter Decision",
+    "author": "Robert S. Chew",
+    "claims": [
+      "The President of the United States (Abraham Lincoln) decided to attempt to supply Fort Sumter with provisions only.",
+      "The decision included a condition that if the provisioning attempt was not resisted, no effort to throw in men, arms, or ammunition would be made without further notice, or in case of an attack upon the Fort.",
+      "Abraham Lincoln personally drafted the instructions for Robert S. Chew and the message delivered to Governor Pickens regarding this decision.",
+      "The communication of this decision was dispatched from Washington on April 6, 1861, via Robert S. Chew.",
+      "Robert S. Chew's orders specified that he was only to deliver the message if Fort Sumter had not yet been evacuated, surrendered, or attacked upon his arrival in Charleston.",
+      "Upon arriving in Charleston on April 8, 1861, Chew found Fort Sumter had neither been surrendered, evacuated, nor attacked, leading to the delivery of the President's notification.",
+      "Governor Pickens received the notification of the decision and stated he would submit it to General Beauregard, who was in charge of military operations in the area."
+    ],
+    "temporal_details": {
+      "date": "April 6, 1861 (decision/orders drafted and dispatched); April 8, 1861 (decision communicated to Gov. Pickens)",
+      "time": "6 P.M. (Chew's departure from Washington on April 6th and arrival in Charleston on April 8th)"
+    },
+    "tone": "Formal, objective, and procedural, reflecting official government communication and reporting. It conveys the urgency of the mission without emotional commentary.",
+    "source_id": "loc_mal.0882800",
+    "source_title": "Abraham Lincoln papers: Series 1. General Correspondence. 1833-1916: Robert S. Chew to Abraham Lincoln, Monday, April 08, 1861 (Report of meeting with Gov. Pickens)"
+  },
+  {
+    "event": "Gettysburg Address",
+    "author": "None",
+    "claims": [
+      "The provided text is specifically identified as the “Nicolay Copy” of the Gettysburg Address.",
+      "The Gettysburg Address exists in multiple drafts, with differences indicated by emphasis type.",
+      "The Nicolay and Hay versions of the Gettysburg Address differ from the generally printed Bliss version.",
+      "A standard text of the Gettysburg Address is inscribed on the wall of the Lincoln Memorial.",
+      "The speech was delivered on a \"great battle field\" during the Civil War.",
+      "The event involved dedicating a portion of the battlefield as a final resting place for those who died there."
+    ],
+    "temporal_details": {
+      "date": "Occurred during the American Civil War, on a great battlefield.",
+      "time": "Description: Not specified."
+    },
+    "tone": "The tone of the text regarding the Gettysburg Address is informative and reverential, presenting it as a historically significant document with variations in its drafts, delivered in a solemn context of dedicating a battlefield cemetery.",
+    "source_id": "loc_gettysburg_nicolay",
+    "source_title": "Gettysburg Address (Nicolay Copy)"
+  },
+  {
+    "event": "Second Inaugural Address",
+    "author": "None",
+    "claims": [
+      "The event occurred on March 4, 1865.",
+      "Abraham Lincoln endorsed the address on April 10, 1865.",
+      "The only known manuscript of Lincoln's Second Inaugural Address is a fair copy, not a composition draft.",
+      "The manuscript's large lettering and well-spaced lines suggest it was copied out as a reading copy.",
+      "Lincoln revised the address's ending by pasting a slip of paper (tab) over the last two lines of text and writing the revised version on it.",
+      "Printed copies were made available to the press, with 'Flynn' identified as a probable typesetter.",
+      "Lincoln fashioned his personal reading copy from uncorrected galleys of a three-page printed press handout.",
+      "The reading copy was created by cutting printed galleys into smaller segments, arranging them into two columns, and pasting them onto a larger sheet.",
+      "The reading copy exhibits two verbal changes also present in the manuscript copy, and many punctuation changes not in the manuscript.",
+      "The printed reading copy is presumed to be the text Lincoln read from at the inaugural ceremony at the Capitol.",
+      "Both the manuscript and reading copy were presented by Lincoln to John Hay and later by Hay's family to the Library of Congress in 1916.",
+      "A further change was made on the revision tab by striking 'the world' and substituting 'all nations'.",
+      "Lincoln's description of the document as the 'original manuscript' should be considered with latitude, as it appears to be a fair copy from an earlier draft.",
+      "The manuscript was undoubtedly the document from which the printed reading copy was set.",
+      "The additional punctuation in the reading copy, particularly commas, likely reflects Lincoln's concern for effective pace and delivery.",
+      "Lincoln made many changes on a galley proof of the reading copy, some after making corrections on another set of galleys sent to the printer.",
+      "Differences between the holograph manuscript and the reading copy include changes made by Lincoln and changes made by the printer (some accepted, some rejected by Lincoln)."
+    ],
+    "temporal_details": {
+      "date": "March 4, 1865 (delivery); April 10, 1865 (Lincoln's endorsement); 1916 (presentation to Library of Congress)",
+      "time": "description"
+    },
+    "tone": "Neutral and analytical, focusing on textual and historical documentation.",
+    "source_id": "loc_mal.4361300",
+    "source_title": "Abraham Lincoln papers: Series 3. General Correspondence. 1837-1897: Abraham Lincoln, [March 4, 1865] (Second Inaugural Address; endorsed by Lincoln, April 10, 1865)"
+  },
+  {
+    "event": "Fort Sumter Decision",
+    "author": "Hay, John, 1838-1905",
+    "claims": [
+      "Lieutenant Robert Anderson was in command of Fort Sumter in April 1861.",
+      "Fort Sumter was the scene illuminated by the flash of the opening guns of the civil war.",
+      "The events at Fort Sumter constituted one of the most awful crises in American annals.",
+      "Robert Anderson, who mustered out Lincoln from his military service 29 years prior, was the same person to sustain to Lincoln relations of prodigious importance at Fort Sumter."
+    ],
+    "temporal_details": {
+      "date": "April, 1861",
+      "time": "description: illuminated by the flash of the opening guns"
+    },
+    "tone": "Serious, historical, emphasizing the critical and momentous nature of the event, and highlighting a significant historical coincidence.",
+    "source_id": "gutenberg_6812",
+    "source_title": "Abraham Lincoln: a History — Volume 01"
+  },
+  {
+    "event": "Gettysburg Address",
+    "author": "Hay, John, 1838-1905",
+    "claims": [
+      "The Gettysburg speech is not of the same 'kindred' as Lincoln's inaugural addresses.",
+      "It does not resemble a 'rattling stump speech' of Lincoln's 'first manner' (delivered in Springfield around 1840, characterized by 'boisterous fun and florid rhetoric'), in the same way 'The Comedy of Errors' does not resemble 'Hamlet'."
+    ],
+    "temporal_details": {
+      "date": "not specified for the event itself, but contrasted with a speech from 1840",
+      "time": "not specified"
+    },
+    "tone": "Neutral and comparative, but implicitly reverential towards the Gettysburg Address, using it as a benchmark for sophisticated eloquence in contrast to earlier works.",
+    "source_id": "gutenberg_6812",
+    "source_title": "Abraham Lincoln: a History — Volume 01"
+  },
+  {
+    "event": "Election Night 1860",
+    "author": "Ketcham, Henry",
+    "claims": [
+      "The election of Abraham Lincoln occurred.",
+      "Lincoln's popular vote at the November election was about forty percent of the total.",
+      "Attempts to run fusion tickets against Lincoln in New York, New Jersey, and Pennsylvania largely failed, with New Jersey diverting only three of her seven electoral votes from him.",
+      "All four candidates (Lincoln, Douglas, Breckinridge, Bell) declared emphatically for the Union during the campaign.",
+      "Douglas stated, 'I do not believe that every Breckinridge man is a disunionist, but I do believe that every disunionist in America is a Breckinridge man.'",
+      "Lincoln received 1,866,452 popular votes and 180 electoral votes.",
+      "Douglas received 1,375,157 popular votes and 12 electoral votes.",
+      "Breckinridge received 847,953 popular votes and 72 electoral votes.",
+      "Bell received 590,631 popular votes and 39 electoral votes.",
+      "Lincoln carried all the free states, except for New Jersey where he received four out of seven electoral votes.",
+      "Lincoln received no electoral votes in the fifteen slave states.",
+      "In ten states, not one person had voted for Lincoln.",
+      "Of the 303 electoral votes, Lincoln received 180, giving him an absolute majority of 57 votes over the aggregate of 123 votes against him.",
+      "The electoral vote was duly counted in a joint session of Congress on February 13, 1861.",
+      "It was officially announced that Abraham Lincoln was duly elected President of the United States for four years, beginning March 4, 1861.",
+      "Just after his election, Lincoln saw a double image of his face in a mirror, which his wife interpreted as 'a sign' that he would be elected to a second term but would not live through it.",
+      "Douglas, after Lincoln's nomination, predicted widespread celebration in Illinois, saying 'There won't be a tar barrel left in Illinois' tonight.'"
+    ],
+    "temporal_details": {
+      "date": "November 6, 1860 (election day); February 13, 1861 (electoral vote count); March 4, 1861 (presidency begins)",
+      "time": "News coming in thick and fast all day, Lincoln went home to rest just after his election, implying evening/night."
+    },
+    "tone": "The tone is primarily factual and informative regarding the results and statistics. It becomes reflective and somewhat somber when describing Lincoln's personal feelings of responsibility and his prophetic mirror vision. There is also an underlying sense of historical significance and a hint of foreboding regarding the national crisis this election precipitated.",
+    "source_id": "gutenberg_6811",
+    "source_title": "The Life of Abraham Lincoln"
+  },
+  {
+    "event": "Fort Sumter Decision",
+    "author": "Ketcham, Henry",
+    "claims": [
+      "The events connected with the fall of Fort Sumter were so dramatic that its name is linked with, and stands for, the opening of the war.",
+      "The fort was not a large military structure, and the number of men defending it was not great, but the events were great and it represented great principles and facts.",
+      "South Carolina, the first state to secede, made Fort Sumter, which commanded Charleston Harbor, a focus of national interest.",
+      "Major Anderson, in command of Forts Moultrie and Sumter, decided to abandon Moultrie and defend Sumter, successfully moving his men in the night.",
+      "The South Carolinians reacted with 'a howl of baffled wrath' upon discovering Anderson's removal to Fort Sumter.",
+      "Buchanan had previously attempted to send provisions with the steamer _Star of the West_, but it was fired upon by South Carolinians and forced to abandon the attempt.",
+      "Lincoln's policy was to hold United States forts and not be the aggressor, ensuring that if war came, it would be initiated by the enemies of the country.",
+      "Major Anderson was beleaguered in Fort Sumter with 76 combatants (128 total men), insufficient ammunition, and nearly out of provisions.",
+      "Lincoln decided to 'send bread to Sumter,' a non-hostile act.",
+      "Due to a promise inherited from Buchanan's administration, Lincoln notified Governor Pickens of South Carolina of his intent to provision Sumter peaceably if possible, or by force.",
+      "The southerners were busy perfecting their fortifications, which were overwhelmingly superior to Fort Sumter's.",
+      "General Beauregard, commanding the military forces, sent Major Anderson a summons to surrender.",
+      "Anderson replied he would surrender on honorable terms by April 15th if no further directions from Washington and no succor arrived.",
+      "Beauregard intercepted Major Anderson's mail before notifying him of hostilities, while Lincoln sent notice to Governor Pickens.",
+      "The first gun was fired, marking the beginning of the war, an hour after Beauregard's notice on April 12, 1861.",
+      "The garrison of 128 men made cartridges from old blankets and clothing and fought valiantly.",
+      "Officer's quarters caught fire, water tanks were destroyed, and powder had to be removed or thrown into the sea to prevent explosion.",
+      "The American flag pole was struck seven times on Friday and three more times on Saturday, finally breaking and falling at 1 PM Saturday after the tenth shot.",
+      "An officer and men quickly re-rigged the flag on a jury-mast.",
+      "With ammunition gone, the fire not extinguished, and no hope of relief, negotiations for surrender were opened and finalized by 8 PM that evening.",
+      "On Sunday, April 14th, the garrison saluted the flag as it was lowered and then marched out as prisoners of war.",
+      "The war was on, begun by the South firing on the flag, rather than by the administration invading or threatening invasion.",
+      "The fall of Sumter was met with ecstatic delight in the South, including a popular demonstration in Montgomery, Alabama, where Confederate Secretary of War L. P. Walker made ambitious prophesies about the Confederate flag.",
+      "The South responded by raising an eight million dollar loan and Jefferson Davis issuing letters of marque.",
+      "In the North, the fall of Sumter caused a 'perfect storm of indignation' and united the North in defense of the flag, proving Benjamin F. Butler's prediction correct.",
+      "Lincoln's previous conciliatory efforts failed because the South desired war, and their actions ended all talk of concession and compromise.",
+      "Stephen A. Douglas, a former rival, called for the defense of the flag and pledged his support to the President.",
+      "Lincoln had been in office less than six weeks at the fall of Sumter but had secured cabinet loyalty, northern confidence, and made European recognition of the South difficult.",
+      "Lincoln politically 'won the game' or 'took that trick' despite Beauregard getting the fort, by maneuvering the South into initiating the conflict.",
+      "The fall of Sumter caused an unprecedented 'outburst of patriotism' throughout the North.",
+      "On Sunday morning, April 14th, news of the surrender terms spurred calls for defense of the flag from pulpits and newspapers.",
+      "Lincoln issued a call for 75,000 volunteer troops, which Douglas endorsed, suggesting an even higher number.",
+      "Northern arsenals had been stripped due to Buchanan's administration, making large-scale preparations difficult without precipitating war.",
+      "The call for troops was met with derision in the South, but prompt, enthusiastic response in the North, with Massachusetts being the first state to send a regiment.",
+      "The 6th Massachusetts regiment, heading to Washington, faced bloodshed in Baltimore (four killed, thirty-six wounded).",
+      "Lincoln demonstrated forbearance towards Baltimore and Maryland, agreeing to avoid bringing troops through the city for a time.",
+      "Lincoln's patience and conciliation allowed for the passage of the Crittenden Resolution on July 22, 1861, which united Congress in the war's purpose to preserve the Union, not for conquest."
+    ],
+    "temporal_details": {
+      "date": "April 12-14, 1861",
+      "time": "April 12th, 3:30 P.M. (notice given, firing one hour later); April 13th, 1:00 P.M. (flag fell); April 13th, 8:00 P.M. (surrender terms arranged); April 14th (garrison marched out)."
+    },
+    "tone": "The tone is dramatic and highlights the historical significance of Fort Sumter as the catalyst for the Civil War. It is critical of the South for initiating hostilities and portrays Lincoln as a shrewd, strategic statesman who, despite a military loss, achieved a crucial political victory by unifying the North and painting the South as the aggressor. The text also expresses admiration for the North's subsequent patriotic fervor.",
+    "source_id": "gutenberg_6811",
+    "source_title": "The Life of Abraham Lincoln"
+  },
+  {
+    "event": "Gettysburg Address",
+    "author": "Ketcham, Henry",
+    "claims": [
+      "It was delivered at the dedication of Gettysburg cemetery.",
+      "It was not intended as a full oration, as Edward Everett was the primary orator of the occasion.",
+      "Lincoln's role was to pronounce formal words of dedication.",
+      "Lincoln wrote it on a sheet of foolscap paper during odd, busy moments, suggesting it was hastily prepared.",
+      "In form, it is prose, but in effect, it is a poem, with many rhythmical sentences.",
+      "The occasion elevated Lincoln to a higher realm of thought.",
+      "Hearers were impressed by his unusual gravity and solemnity, and many were awed and moved to tears.",
+      "The immediate effect of the speech was not positive; Lincoln, Everett, Seward, and Colonel Lamon all initially considered it a failure.",
+      "Colonel Lamon stated that it was not regarded by the audience, press, or public as a production of extraordinary merit until after Lincoln's death.",
+      "New York dailies immediately following the speech praised Everett's oration and Beecher's speech but made no mention of Lincoln's speech, confirming Lamon's initial assessment.",
+      "A day or two later, Edward Everett wrote Lincoln a congratulatory letter, which the author suggests could have been mere courtesy or a 'sober second thought' after the speech had time to be absorbed.",
+      "After a few days, the public recognized Lincoln's 'few remarks' as immeasurably superior to Everett's oration.",
+      "It was compared to Pericles' oration in memory of the Athenian dead, with the assertion that no memorial oration of equal power had been delivered since Pericles.",
+      "The address is less than three hundred words long, in contrast to Pericles' near three thousand words.",
+      "Lincoln's speech mourned the necessity of war and yearned for peace, unlike Pericles' glorification of war, but both appreciated the glory of sacrifice for one's country.",
+      "The author predicts the Gettysburg Address, despite being brief, hastily prepared, and underestimated by its author, will endure as long as the republic and English speech.",
+      "The majesty, classic simplicity, and elegance of the address are attributed to Lincoln's thorough grounding in literature like the Bible, Aesop's Fables, Pilgrim's Progress, Burns, Shakespeare, and his diligent study of English grammar."
+    ],
+    "temporal_details": {
+      "date": "November 19, 1863",
+      "time": "Dedication of Gettysburg cemetery (specific time not given), reception developed over 'a day or two' and 'a few days' afterward."
+    },
+    "tone": "Highly reverential and laudatory, particularly in hindsight regarding the speech's lasting impact and literary quality, while also factually detailing its initially poor reception.",
+    "source_id": "gutenberg_6811",
+    "source_title": "The Life of Abraham Lincoln"
+  },
+  {
+    "event": "Second Inaugural Address",
+    "author": "Ketcham, Henry",
+    "claims": [
+      "It was delivered on March 4, 1865.",
+      "It contained little new policy, simply continuing the policy of the past four years, which the country approved by reelecting him.",
+      "The end of the war was almost in sight, expected to be finished soon.",
+      "It breathes an intangible spirit which gives it marvelous grandeur.",
+      "It reflects Lincoln's prophetic statesman qualities, seeing the hand and spirit of God shaping events.",
+      "It demonstrates spiritual elevation of thought and tenderness of yearning, comparable to the prophet Isaiah.",
+      "Its closing paragraph is noted for its manly piety, expressing hope for peace, acceptance of God's judgment regarding the war's duration and cost, and a call for a just and lasting peace with 'malice toward none, with charity for all'.",
+      "It is one of five speeches mentioned that showcase Lincoln's political philosophy and intellectual development.",
+      "There is a wide difference between this speech and the 'House-divided-against-itself speech', indicating a great growth of mind and spirit over seven years of stress."
+    ],
+    "temporal_details": {
+      "date": "1865-03-04",
+      "time": "description not available"
+    },
+    "tone": "Reverent, admiring, and deeply appreciative. The text highlights its 'marvelous grandeur' and 'spiritual elevation', comparing Lincoln to a prophet, and quotes extensively from it to demonstrate its profound moral and philosophical depth.",
+    "source_id": "gutenberg_6811",
+    "source_title": "The Life of Abraham Lincoln"
+  },
+  {
+    "event": "Ford's Theatre Assassination",
+    "author": "Ketcham, Henry",
+    "claims": [
+      "On Good Friday, April 14, 1865, President Lincoln was in excellent spirits.",
+      "Mrs. Lincoln arranged a theater party for the evening of April 14, 1865, which was to include Major Rathbone and Miss Harris after General and Mrs. Grant's plans changed.",
+      "The party occupied the upper proscenium box on the right of the stage at Ford's Theatre.",
+      "J. Wilkes Booth, a 26-year-old actor known by theater employees, gained access to the box by fastening the corridor door shut with a bar and using a pre-bored hole to survey the occupants.",
+      "Booth entered the box with a revolver and dagger and shot President Lincoln in the back of the head while Lincoln was enjoying a comedy.",
+      "The pistol report was somewhat muffled and unnoticed by the majority of the audience.",
+      "Upon being shot, Lincoln's head dropped upon his breast without word or sound, and he became unconscious.",
+      "Major Rathbone sprang at Booth, who savagely slashed him with a dagger.",
+      "Booth then leaped from the box onto the stage, catching his spur in a flag, which resulted in a broken leg or ankle.",
+      "Despite his injury, Booth flourished his dagger, declaiming the motto of Virginia, 'Sic semper Tyrannis', and then escaped out the rear of the theater on a waiting horse.",
+      "Booth remained in hiding for eleven days, suffering excruciating pain from his broken leg, before being cornered in a burning barn and shot down.",
+      "Surgeons immediately recognized Lincoln's wound as mortal; he was carried to a small room in an unpretentious hotel across the street.",
+      "Lincoln lingered unconscious through the night and died at 7:20 AM on the morning of April 15, 1865.",
+      "Booth's band of assassins had also planned to murder other officials; Grant escaped, and Seward was severely wounded (along with his son Frederick) but not killed.",
+      "The news of Lincoln's assassination caused a widespread 'outburst of sorrow and indignation' and plunged the entire Northern community into grief.",
+      "Ex-Confederates and General Grant both stated that with Lincoln's death, the South lost its 'best friend' and 'most just friend'.",
+      "During Booth's eleven days in hiding, no Southern sympathizer he encountered wished to arrest him, despite a large reward.",
+      "Jeff Davis is believed to have approved Booth's act, and the conspiracy included the murder of multiple officials, including Lincoln and Johnson.",
+      "By noon on April 15, 1865, public buildings, stores, and residences throughout the North were draped in mourning.",
+      "Lincoln's body was borne to the White House, lay in state, and a funeral service was held in the East Room, attended by his son Robert.",
+      "Following the funeral service, Lincoln's body was borne in procession to the Capitol and placed in the rotunda until the evening of the next day."
+    ],
+    "temporal_details": {
+      "date": "April 14, 1865 (Assassination), April 15, 1865 (Death)",
+      "time": "Approximately 10:00 PM (Assassination), 7:20 AM (Death), Eleven days (Booth's hiding), Saturday morning (News spread), By 12:00 PM (noon) (Mourning drapes), Middle of the morning (Body moved to White House), Wednesday (Funeral service), Until evening of next day (Body in Capitol rotunda)"
+    },
+    "tone": "Highly emotional, tragic, solemn, and condemnatory towards the act and perpetrator, while deeply sympathetic and mournful towards Lincoln and the profound national loss. The language used is vivid and dramatic, emphasizing the horror and impact of the event.",
+    "source_id": "gutenberg_6811",
+    "source_title": "The Life of Abraham Lincoln"
+  },
+  {
+    "event": "Election Night 1860",
+    "author": "Morse, John T., Jr. (John Torrey), 1840-1937",
+    "claims": [
+      "Abraham Lincoln's election was known in the autumn of 1860.",
+      "Upon his election, Lincoln was immediately troubled by office-seekers and threats/warnings of assassination.",
+      "On the night of his election in 1860, Lincoln was exhausted from receiving news of the results (\"thick and fast all day\") and celebratory excitement.",
+      "While resting on a lounge that night, Lincoln saw a double reflection of his face in a mirror, with one image being paler than the other.",
+      "Lincoln's wife interpreted this double image as a premonition that he would be re-elected for a second term but would not live through it.",
+      "Lincoln's election served as a \"signal for secession.\"",
+      "Lincoln was elected as \"the choice of a minority.\""
+    ],
+    "temporal_details": {
+      "date": "Autumn of 1860, just after my election in 1860",
+      "time": "all day (news coming in), night (went home to rest)"
+    },
+    "tone": "Descriptive and factual, incorporating a personal, slightly superstitious anecdote from Lincoln regarding a premonition on election night.",
+    "source_id": "gutenberg_12801",
+    "source_title": "Abraham Lincoln, Volume II"
+  },
+  {
+    "event": "Fort Sumter Decision",
+    "author": "Morse, John T., Jr. (John Torrey), 1840-1937",
+    "claims": [
+      "Buchanan pursued a futile policy towards Fort Sumter.",
+      "Robert Anderson commanded at Fort Moultrie in 1860 and later moved forces to Sumter.",
+      "Anderson asked for instructions regarding Sumter in vain.",
+      "Anderson appealed to Lincoln regarding Fort Sumter.",
+      "Anderson refused to surrender Sumter.",
+      "Attorney-General Edward Bates opposed reinforcing Sumter.",
+      "General P.G.T. Beauregard, commanding at Charleston, was notified by Lincoln of the purpose to reinforce Sumter.",
+      "Beauregard requested the surrender of Sumter and commanded its bombardment.",
+      "Secretary of War Simon Cameron opposed relieving Fort Sumter.",
+      "Secretary of Treasury Salmon P. Chase wished to reinforce Sumter.",
+      "Lincoln asked the opinion of General Scott as to relieving Sumter.",
+      "Lincoln asked the advice of his cabinet regarding Sumter.",
+      "Lincoln promised the South to take no action without warning regarding Sumter.",
+      "Lincoln again asked his cabinet for advice on Sumter.",
+      "Lincoln formed a plan to relieve Fort Pickens.",
+      "Lincoln spoiled the plan to relieve Sumter by sending the Powhatan to Pensacola.",
+      "Lincoln announced his intention to provision Sumter.",
+      "Lincoln admitted blame for failure regarding the Fort Sumter situation.",
+      "The text questions Lincoln's fault in delaying to relieve Fort Sumter."
+    ],
+    "temporal_details": {
+      "date": "Early 1861, after Lincoln's inauguration (Anderson's command at Fort Moultrie began in 1860)",
+      "time": "Not specified"
+    },
+    "tone": "Analytical and evaluative, leaning critical of the initial handling of the situation (e.g., 'futile policy,' 'in vain,' 'spoiled plan,' 'admits blame for failure,' 'question of his fault').",
+    "source_id": "gutenberg_12801",
+    "source_title": "Abraham Lincoln, Volume II"
+  },
+  {
+    "event": "Gettysburg Address",
+    "author": "Morse, John T., Jr. (John Torrey), 1840-1937",
+    "claims": [
+      "The event was noteworthy because it was one of the most distinguished acquisitions to the literature of our tongue.",
+      "It was delivered at the consecration of the national military cemetery at Gettysburg.",
+      "Edward Everett was the main orator for the occasion.",
+      "President Lincoln was invited as a guest.",
+      "Mr. Arnold claimed Lincoln was told he would be expected to speak while 'in the cars on his way from the White House to the battlefield' and jotted down the address in pencil a few hours later.",
+      "The text casts doubt on the extemporaneous nature of the composition, citing an invitation note from November 2.",
+      "The invitation note explicitly requested Lincoln, as Chief Executive, to 'formally set apart these grounds to their sacred use, by a few appropriate remarks.'",
+      "It is probable that 'some forethought went to the preparation of this beautiful and famous \"Gettysburg speech.\"'",
+      "The full text of the speech is provided within the document.",
+      "Mr. Arnold observed Lincoln 'adjusted his spectacles' and read his address 'in an unconscious and absorbed manner'."
+    ],
+    "temporal_details": {
+      "date": "November 19, 1863 (delivery); November 2 (invitation note)",
+      "time": "A few hours later (Arnold's account of composition before delivery)"
+    },
+    "tone": "The tone is highly admiring and reverent towards the Gettysburg Address, calling it a 'distinguished acquisition' and 'beautiful and famous.' It adopts a scholarly, analytical tone when discussing its composition, weighing different accounts.",
+    "source_id": "gutenberg_12801",
+    "source_title": "Abraham Lincoln, Volume II"
+  },
+  {
+    "event": "Second Inaugural Address",
+    "author": "Morse, John T., Jr. (John Torrey), 1840-1937",
+    "claims": [
+      "It was delivered when Mr. Lincoln was to address the people for a second time as their ruler.",
+      "Lincoln believed mere conquest was not a completion of the difficult work of restoring the Union.",
+      "It was delivered from the eastern portico of the Capitol.",
+      "Lincoln stated there was less occasion for an extended address than at the first inaugural.",
+      "Lincoln noted that little new could be presented due to constant public declarations over the preceding four years.",
+      "He expressed that the progress of Union arms was well known, reasonably satisfactory, and encouraging.",
+      "He ventured no predictions for the future.",
+      "He recalled that four years prior, all thoughts were anxiously directed to an impending civil war, which both sides dreaded and sought to avert.",
+      "He stated that while one party (Confederates) would make war rather than let the nation survive, the other (Union) would accept war rather than let it perish, and the war came.",
+      "He identified colored slaves, localized in the South, as a peculiar and powerful interest and the cause of the war.",
+      "He said insurgents sought to strengthen, perpetuate, and extend slavery, while the government claimed only to restrict its territorial enlargement.",
+      "He noted neither party expected the war's magnitude or duration, nor anticipated the cause (slavery) might cease with or before the conflict.",
+      "He observed that both sides read the same Bible and prayed to the same God, invoking divine aid against each other.",
+      "He questioned the justice of asking God's assistance to obtain bread from the sweat of other men's faces.",
+      "He suggested that American slavery was an offense that, in God's providence, must needs come, but which God now wills to remove, and that the terrible war was a woe due to those by whom the offense came.",
+      "He expressed hope and prayer for the war to speedily pass, but affirmed that if God wills it to continue until all wealth from 250 years of unrequited toil is sunk and blood drawn by the lash is paid by blood drawn by the sword, 'The judgments of the Lord are true and righteous altogether.'",
+      "He concluded with a plea for national unity and lasting peace: 'With malice toward none, with charity for all, with firmness in the right, as God gives us to see the right, let us strive on to finish the work we are in; to bind up the nation's wounds; to care for him who shall have borne the battle, and for his widow, and his orphan,--to do all which may achieve and cherish a just and lasting peace among ourselves, and with all nations.'",
+      "The speech has taken its place among the most famous written or spoken compositions in the English language.",
+      "It has been compared in parts with the lofty portions of the Old Testament.",
+      "Lincoln himself expected it to 'wear as well as, perhaps better than, anything I have produced.'",
+      "Lincoln believed it was 'not immediately popular' because 'Men are not flattered by being shown that there has been a difference of purpose between the Almighty and them.'",
+      "Lincoln felt it was a truth that needed to be told, and as whatever humiliation there was in it fell most directly on himself, he thought others might afford for him to tell it."
+    ],
+    "temporal_details": {
+      "date": "March 4, 1865",
+      "time": "Not specified, but described as an address to the people"
+    },
+    "tone": "The tone is descriptive, analytical, and appreciative of the speech's historical significance and literary quality. It faithfully recounts Lincoln's own complex feelings and rationale behind the address.",
+    "source_id": "gutenberg_12801",
+    "source_title": "Abraham Lincoln, Volume II"
+  },
+  {
+    "event": "Ford's Theatre Assassination",
+    "author": "Morse, John T., Jr. (John Torrey), 1840-1937",
+    "claims": [
+      "The event occurred on Friday, April 14, 1865, which was Good Friday.",
+      "President Lincoln was invited by General Grant and his wife to Ford's Theatre, but they declined due to personal engagements.",
+      "Lincoln entered his box at the theatre around nine o'clock in the evening, accompanied by his wife, Major Rathbone, and another lady.",
+      "The presidential box was decorated with an American flag and had been tampered with by conspirators, including a stick to fasten a door and a hole cut in a door to view inside.",
+      "Just after ten o'clock, John Wilkes Booth approached, entered a small vestibule, and fastened the door behind him.",
+      "Booth fired a pistol shot, astounding everyone in the theatre.",
+      "Major Rathbone attempted to apprehend Booth but was severely slashed in the arm with a dagger.",
+      "Booth vaulted over the box rail to the stage, catching his spur in the flag, causing him to land awkwardly and limp.",
+      "On stage, Booth brandished the bloody dagger and cried \"Sic semper tyrannis!\"",
+      "He was recognized as John Wilkes Booth, an actor.",
+      "Edward Spangler, an employee, held open a back door of the theatre for Booth.",
+      "A boy, also employed at the theatre, held Booth's saddled and bridled horse in the alley.",
+      "Booth kicked the boy aside, mounted his horse with difficulty due to a broken leg sustained in his fall on stage, and rode rapidly away.",
+      "No efficient pursuit of Booth was made amidst the confusion.",
+      "Lincoln was shot at the back of the head, on the left side; the bullet passed through his brain and stopped just short of the left eye.",
+      "Lincoln instantly lost consciousness and was carried to a room in a house opposite the theatre.",
+      "Lincoln died at twenty-two minutes after seven o'clock the next morning.",
+      "Booth was described as an \"unworthy member\" of a distinguished acting family, young, handsome, given to hard drinking, vain, and of small professional capacity, driven by a \"mania of egotism\" for notoriety.",
+      "The author characterizes Booth's crime as \"stupid as it was barbarous,\" achieving nothing for him or the South, and instead arousing vindictiveness.",
+      "Booth evaded capture for eleven miserable days, crippled and suffering, finding concealment difficult and escape impossible.",
+      "Booth was regarded with \"execration rather than admiration,\" loathed as a murderer.",
+      "On April 25, a squad of cavalry traced Booth to a barn in Virginia, surrounded it, and set it on fire when he refused to come out.",
+      "Boston Corbett, contrary to orders, shot Booth through a crevice, or Booth may have shot himself.",
+      "Booth died on the morning of April 26, with a bullet in the base of his brain and his body paralyzed.",
+      "The assassination was part of a larger conspiracy involving many active members and known to others.",
+      "Concurrently with the assassination at Ford's Theatre, an assault was perpetrated upon Secretary Seward, who was confined to his bed from an accident.",
+      "Seward's assailant gained admission by pretending to bring medicine, then stabbed Seward about the face and neck, and wounded his two sons and two nurses before escaping.",
+      "The plot likely also included the murder of Vice-President Johnson, General Grant, and Secretary Stanton, with the aim of creating anarchy by removing all lawful heads of government.",
+      "The government arrested seven men (Herold, Spangler, Payne, O'Laughlin, Arnold, Atzerodt, and Mudd) and one woman (Mary E. Surratt) for complicity in the conspiracy.",
+      "The conspirators were tried by a military commission due to the difficulty of securing a guilty verdict from a D.C. jury because of strong secessionist feeling."
+    ],
+    "temporal_details": {
+      "date": "April 14, 1865 (assassination attempt), April 15, 1865 (Lincoln's death), April 26, 1865 (Booth's death)",
+      "time": "Lincoln entered theatre box about nine o'clock in the evening; pistol shot just after ten o'clock; Lincoln died at twenty-two minutes after seven o'clock in the morning; Booth died on the morning of April 26."
+    },
+    "tone": "Primarily factual and descriptive, providing a detailed narrative of the event and its immediate aftermath. It conveys a solemn and grave atmosphere when discussing the tragedy, and a strongly critical and disdainful tone when describing John Wilkes Booth and his motivations. The author also includes some reflective and interpretive comments, particularly regarding the historical context and the conspirators' misguided aims.",
+    "source_id": "gutenberg_12801",
+    "source_title": "Abraham Lincoln, Volume II"
+  },
+  {
+    "event": "Election Night 1860",
+    "author": "Browne, Francis F. (Francis Fisher), 1843-1913",
+    "claims": [
+      "Abraham Lincoln was elected President of the United States on November 6, 1860.",
+      "Lincoln's election was significantly aided by an unexpected division within the Democratic party.",
+      "Four presidential tickets were in the field: Republican, Democratic (Douglas), a pro-slavery Democratic faction (Breckenridge), and the 'Constitutional Union Party' (Bell).",
+      "The contest was determined largely on sectional lines, with slavery as the great underlying issue.",
+      "Lincoln secured a substantial majority of the electoral vote (180 to 123) but faced a popular vote that was nearly a million more against him than for him (930,170 against).",
+      "Fifteen states gave Lincoln no electoral vote, and in nine states, he received no popular vote, with the 'Solid South' squarely against him.",
+      "Lincoln was at the telegraph office in Springfield, Illinois, on election night, receiving returns until about 2 AM on Wednesday (November 7).",
+      "Upon learning the election results, Lincoln immediately felt an immense sense of responsibility, as he had never before.",
+      "By Wednesday morning, the day after election night, Lincoln began to feel the need for support and had made up his Cabinet almost entirely by sundown that day.",
+      "Despite his gratification, Lincoln's election was 'untempered with disappointments' due to the deep sectional divisions it revealed, filling him with regret and apprehension.",
+      "Lincoln faced the future without dismay, with a calm resolve to do his duty, maintaining paramount loyalty to the Constitution despite his hatred of slavery.",
+      "Lincoln took no active part in the campaign, preferring to remain quietly at his home in Springfield.",
+      "Immediately after the election was decided, Lincoln was 'beset with visitors' from across the country seeking favors or out of curiosity."
+    ],
+    "temporal_details": {
+      "date": "November 6, 1860 (election day), continuing into November 7, 1860",
+      "time": "returns received until about 2 AM on Wednesday (November 7)"
+    },
+    "tone": "The tone is factual and analytical, detailing the political landscape and results of the election. It also portrays Lincoln's immediate personal reactions and his solemn acceptance of immense responsibility, noting his blend of gratification with apprehension regarding the nation's divisions.",
+    "source_id": "gutenberg_14004",
+    "source_title": "The Every-day Life of Abraham LincolnA Narrative And Descriptive Biography With Pen-Pictures And PersonalRecollections By Those Who Knew Him"
+  },
+  {
+    "event": "Fort Sumter Decision",
+    "author": "Browne, Francis F. (Francis Fisher), 1843-1913",
+    "claims": [
+      "The Confederate attack upon Fort Sumter, a U.S. fort at the mouth of Charleston Harbor, South Carolina, was the signal that civil war had actually begun.",
+      "Prior to the attack, Lincoln maintained a conciliatory policy towards the rebellious States.",
+      "The Confederate resort to arms and capture of forts and property of the United States decided the course of the administration.",
+      "Following the attack, Lincoln issued a proclamation asking for the immediate enlistment of 75,000 volunteers.",
+      "Lincoln's proclamation also summoned Congress to convene in an extra session.",
+      "Washington D.C. was 'thrilling with excitement' over the fall of Fort Sumter.",
+      "Stephen A. Douglas declared his full support for the President's constitutional functions to preserve the Union, maintain the Government, and defend the Federal capital, stating that 'A firm policy and prompt action were necessary' following the fall of Fort Sumter."
+    ],
+    "temporal_details": {
+      "date": "April 12, 1861 (attack); April 14, 1861 (excitement/Douglas's support); April 15, 1861 (Lincoln's proclamation); July 4 (Congress convened)",
+      "time": "noon (Congress convened)"
+    },
+    "tone": "Factual and descriptive, emphasizing the event as a pivotal moment that forced a decisive governmental response and marked the official beginning of the Civil War. It highlights the urgency and gravity of the situation.",
+    "source_id": "gutenberg_14004",
+    "source_title": "The Every-day Life of Abraham LincolnA Narrative And Descriptive Biography With Pen-Pictures And PersonalRecollections By Those Who Knew Him"
+  },
+  {
+    "event": "Gettysburg Address",
+    "author": "Browne, Francis F. (Francis Fisher), 1843-1913",
+    "claims": [
+      "A portion of the Gettysburg battlefield was purchased by the State of Pennsylvania for a burial-place for Union soldiers, consisting of seventeen and a half acres adjoining the town cemetery.",
+      "The ground was consecrated with imposing ceremonies, to which President Lincoln, his Cabinet, and a large body of the military were invited.",
+      "Hon. Edward Everett of Massachusetts was selected as the chief orator for the dedication ceremony.",
+      "It was expected that President Lincoln would add some testimonials in honor of the dead after Everett's oration.",
+      "Lincoln and Everett met for the first time on this day, representing contrasting phases of American civilization.",
+      "Everett's oration was a finished, smooth, euphonious, and elegant literary production, delivered with silvery tones and graceful gestures over two hours, described as 'perfect art, but without feeling' and 'cold as ice'.",
+      "After Everett finished, the multitude vociferously called for an address from Lincoln.",
+      "Lincoln came forward with an unconscious air, put on his spectacles, and read a brief address from a single page of foolscap, in a quiet voice that gradually warmed with feeling.",
+      "The simple and sublime words of Lincoln's address deeply moved the listeners, who were under a 'spell of a mighty magician,' standing 'hushed, awed, and melted.'",
+      "The address is considered one of Lincoln's briefest but most remembered speeches, 'hallowed by the truest and loftiest inspiration.'",
+      "After the address, Lincoln congratulated Everett, who expressed that he would gladly exchange all his 'hundred pages to have been the author of your twenty lines!'",
+      "The text states that the Gettysburg Address is 'unquestionably the most remarkable' of Lincoln's public utterances and 'will remain a classic of the English language.'",
+      "The 'Westminster Review' said the address has 'but one equal,' Pericles' funeral oration, and is superior in being 'more natural, fuller of feeling, more touching and pathetic,' and known with 'absolute certainty that it was really delivered.'",
+      "Mr. John Bigelow characterized the address as 'an illustration of the difference between oratory and inspiration' and 'one of the most momentous incidents in the history of the Civil War,' calling it 'the most enduring bit of eloquence' on the continent.",
+      "Major Harry T. Lee, a battle participant, noted that Lincoln's simple and touching eulogy brought tears to 'scarcely a dry eye in the whole vast audience.'",
+      "Mr. John Russell Young observed Lincoln's awkward delivery and that the speech was so brief a photographer preparing to take his picture finished before the photographer was ready.",
+      "Upon arriving in Gettysburg, Lincoln inquired about 'Old John Burns,' a hero of the battle, and walked with him in the procession to the cemetery.",
+      "Edward Everett noted that Lincoln displayed 'gentlemanly appearance, manners, and conversation,' being the peer of any man at a social gathering during the commemoration."
+    ],
+    "temporal_details": {
+      "date": "1863-11-19",
+      "time": "Occurred after Edward Everett's two-hour oration; Lincoln's speech was brief, concluding before a photographer was ready."
+    },
+    "tone": "Reverential, admiring, and laudatory, emphasizing the profound impact, inspirational quality, and lasting significance of Lincoln's address, often contrasting its emotional power with Edward Everett's more formal oratory.",
+    "source_id": "gutenberg_14004",
+    "source_title": "The Every-day Life of Abraham LincolnA Narrative And Descriptive Biography With Pen-Pictures And PersonalRecollections By Those Who Knew Him"
+  },
+  {
+    "event": "Second Inaugural Address",
+    "author": "Browne, Francis F. (Francis Fisher), 1843-1913",
+    "claims": [
+      "The President remained with his Cabinet at the Capitol until a late hour on March 3, 1865, finishing business pertaining to the last acts of the old Congress, with a care-worn but cheerful look.",
+      "Rain prevailed during the morning of inauguration day, but ceased before noon.",
+      "The new Senate was organized, and Andrew Johnson was sworn in as Vice-President in its presence.",
+      "Shortly after twelve o'clock, Lincoln entered the chamber and joined an august procession to the eastern portico.",
+      "As Lincoln stepped forward to take the oath of office, a flood of sunlight suddenly burst from the clouds, illuminating his face and form.",
+      "Lincoln commented the next day that the sunburst 'made his heart jump' and it was noted as an auspicious omen, like the bright star seen later.",
+      "Cheers and shouts rent the air as he prepared to speak, then the crowd hushed.",
+      "He paused, as though thronging memories impeded utterance, then read the address in a voice clear, strong, but touched with pathos.",
+      "The address is described as an 'eloquent and imperishable composition'.",
+      "It was probably, next to the Gettysburg oration, Lincoln's most eloquent and touching public appeal.",
+      "William Gladstone of England praised the address, seeing in it the effect of sharp trial to raise men to a higher level of thought and action.",
+      "The address states there was less occasion for an extended address than at the first inauguration, as public declarations had been constant over four years of war.",
+      "Lincoln noted that four years prior, all thoughts were anxiously directed to an impending civil war, and both parties deprecated war, but one would make war rather than let the Nation survive, and the other would accept war rather than let it perish.",
+      "The address identifies colored slaves, localized in the South, as a peculiar and powerful interest and somehow the cause of the war.",
+      "Neither party expected the war's magnitude or duration, nor anticipated the cause of the conflict might cease before the conflict itself.",
+      "Lincoln reflects on both sides reading the same Bible and praying to the same God, questioning the request for divine aid in wringing bread from others' sweat, and noting that neither's prayer was fully answered.",
+      "He ponders if American slavery is an offense God wills to remove, giving the war as woe due to those by whom the offense came.",
+      "He expresses hope and prayer for the war to pass away, but acknowledges God's will if it must continue until all wealth from 'bondman's two hundred and fifty years of unrequited toil' is sunk, and 'every drop of blood drawn by the lash shall be paid by another drawn with the sword'.",
+      "The address concludes with the famous lines: 'With malice toward none, with charity for all, with firmness in the right, as God gives us to see the right, let us strive on to finish the work we are in; to bind up the nation's wounds; to care for him who shall have borne the battle, and for his widow and for his orphan; to do all which may achieve and cherish a just and lasting peace among ourselves and with all nations.'",
+      "At the close of the inaugural ceremonies, as the procession moved to the White House, a bright star was visible, interpreted as an auspicious omen."
+    ],
+    "temporal_details": {
+      "date": "March 4, 1865",
+      "time": "Morning (rain), before noon (rain ceased), shortly after twelve o'clock (Lincoln entered chamber), during the day for the address, at the close of the ceremonies (evening)"
+    },
+    "tone": "Highly reverent and admiring, emphasizing the dramatic and symbolic aspects of the event, and the profound, eloquent, and touching nature of Lincoln's address and his character.",
+    "source_id": "gutenberg_14004",
+    "source_title": "The Every-day Life of Abraham LincolnA Narrative And Descriptive Biography With Pen-Pictures And PersonalRecollections By Those Who Knew Him"
+  },
+  {
+    "event": "Ford's Theatre Assassination",
+    "author": "Browne, Francis F. (Francis Fisher), 1843-1913",
+    "claims": [
+      "John Wilkes Booth meticulously planned the assassination of President Lincoln.",
+      "On the morning of April 14th, Booth visited Ford's Theatre at half-past eleven and confirmed the President's attendance for the evening.",
+      "Booth secured a fleet horse for his escape in the afternoon and left it at a convenient location.",
+      "The Presidential party, including President Lincoln and Mrs. Lincoln, arrived at Ford's Theatre at nine o'clock on April 14th to watch the play 'The American Cousin'.",
+      "At half-past ten o'clock, Booth entered the President's box, armed with a small Derringer pistol and a double-edged dagger.",
+      "Booth shot President Lincoln in the back and side of his head.",
+      "Major Rathbone, present in the box, attempted to seize Booth but was stabbed in his left arm with a large knife.",
+      "Booth leaped from the box to the stage, shouting '_Sic semper tyrannis!_' and 'The South shall be free,' despite slipping upon landing.",
+      "Booth then escaped from the theatre through a rear door, mounted a horse, and rode off.",
+      "The entire sequence from the shot to Booth's escape occurred within approximately a quarter of a minute.",
+      "The theatre audience erupted in pandemonium, with Mrs. Lincoln screaming that the President had been killed.",
+      "A party of two hundred or more soldiers stormed the theatre, clearing the audience with fixed bayonets, muskets, and pistols.",
+      "President Lincoln, unconscious, was carried from Ford's Theatre to the Peterson house across the street.",
+      "Surgeons, including Dr. Hall, examined the President and concluded he was 'dead to all intents'.",
+      "President Lincoln's respiration ceased at twenty-two minutes past seven o'clock on the morning of Saturday, April 15, 1865, at the Peterson house.",
+      "Coordinated attacks on Secretary Seward and his son Frederick occurred about half an hour later than the attack on the President.",
+      "The news of the assassination caused widespread consternation, grief, and national mourning, with businesses ceasing and flags flown at half-mast."
+    ],
+    "temporal_details": {
+      "date": "1865-04-14",
+      "time": "22:30"
+    },
+    "tone": "Dramatic, somber, and deeply mournful, conveying the chaos, shock, and profound national grief associated with the event, using vivid and emotional language.",
+    "source_id": "gutenberg_14004",
+    "source_title": "The Every-day Life of Abraham LincolnA Narrative And Descriptive Biography With Pen-Pictures And PersonalRecollections By Those Who Knew Him"
+  },
+  {
+    "event": "Election Night 1860",
+    "author": "Charnwood, Godfrey Rathbone Benson, Baron, 1864-1945",
+    "claims": [
+      "On the night of November 6, Lincoln sat alone with the operator in the telegraph box at Springfield, receiving the results of the elections of Presidential electors in the various States.",
+      "Long before the returns were complete, Lincoln's knowledge of such matters made him sure of his return (victory).",
+      "Before he left the telegraph box, Lincoln had solved in principle the first and very important problem of his Presidency, the choice of a Cabinet.",
+      "Lincoln's victory was in one aspect far from complete, as he was elected by a minority of the American people (popular votes).",
+      "Lincoln had a large popular majority over Douglas.",
+      "If Douglas had received the votes given for the Southern Democrat, Breckinridge, he would have had a considerable majority over Lincoln, though the Electoral College would still have kept him out of the Presidency.",
+      "The victory was 'fatally significant' because Lincoln's votes were drawn only from the Northern States, carrying almost all the free States and no others.",
+      "For the first time in American history, the united North had used its superior numbers to outvote the South.",
+      "The election caused great vexation, which was aggravated by the personality of Lincoln.",
+      "The election of Lincoln was greeted throughout the South with a 'howl of derision'."
+    ],
+    "temporal_details": {
+      "date": "1860-11-06",
+      "time": "Night"
+    },
+    "tone": "The tone is analytical and historically interpretive, recognizing the profound and 'fatally significant' consequences of the election results, particularly regarding the North-South divide. It attributes foresight and strategic thinking to Lincoln during the event, while also noting the strong negative reaction ('howl of derision') from the South.",
+    "source_id": "gutenberg_18379",
+    "source_title": "Abraham Lincoln"
+  },
+  {
+    "event": "Fort Sumter Decision",
+    "author": "Charnwood, Godfrey Rathbone Benson, Baron, 1864-1945",
+    "claims": [
+      "Lincoln eventually decided to send provisions but not troops to Fort Sumter.",
+      "The decision was not made until Senators and Congressmen had assured Lincoln that Northern opinion would support him.",
+      "The decision was considered 'right' because it avoided the appearance of provocation while upholding the Union's right.",
+      "The decision was taken 'perilously late,' and the delay exposed the government to the risk of great humiliation.",
+      "An announcement was sent to the Governor of South Carolina stating that provisions would be sent, with an assurance that no further steps would be taken if unopposed.",
+      "Major Anderson at Fort Sumter reported, on the day after Lincoln's Inauguration, that he could only hold out a few weeks longer without reinforcement and provisions.",
+      "General Scott advised that relieving Fort Sumter would require a force of 20,000 men, which was unavailable.",
+      "The Cabinet was divided on the issue, with most members and General Scott initially recommending evacuation based on military necessity.",
+      "Lincoln reserved his decision and delayed it, partly due to negotiations between Seward and Southern Commissioners, which ultimately proved fruitless.",
+      "Lincoln's decision to hold the forts had been a key point in his 'First Inaugural' address.",
+      "Lincoln was in a stronger position to make the final decision after successfully handling Seward's 'abortive rebellion' (a memo sent on April 1st), which consolidated Lincoln's authority in his Cabinet.",
+      "The decision was primarily based on political results rather than military consequences."
+    ],
+    "temporal_details": {
+      "date": "From early March 1861 (day after Inauguration) to early April 1861 (prior to April 12 attack)",
+      "time": "Decision-making process"
+    },
+    "tone": "Analytical and nuanced, acknowledging Lincoln's eventual strategic wisdom and political astuteness in a difficult emergency, but also critical of his initial hesitation and the 'perilously late' timing of the decision.",
+    "source_id": "gutenberg_18379",
+    "source_title": "Abraham Lincoln"
+  },
+  {
+    "event": "Gettysburg Address",
+    "author": "Charnwood, Godfrey Rathbone Benson, Baron, 1864-1945",
+    "claims": [
+      "The Gettysburg Address was delivered during the dedication of a National Cemetery upon the field of Gettysburg, an event instituted by State Governors to commemorate the passing of the war's crisis.",
+      "The dedication ceremony, where the address was given, occurred only a few days after the major battles of Vicksburg and Gettysburg, during a turning point in the war.",
+      "Edward Everett, an accomplished and highly reputed orator, delivered the main, two-hour speech before Lincoln at the ceremony.",
+      "The author notes that Everett's oration, despite its graceful sentiment and reasonable survey of the war, no longer possesses its original charm.",
+      "Abraham Lincoln was invited to deliver a few words at the conclusion of the ceremony.",
+      "Lincoln's 'few words' (the Gettysburg Address) initially left his audience unaware that a classic, destined to endure with the English language, had been spoken, despite the words having 'sunk deep'.",
+      "John Hay, a literary man and Lincoln's greatest admirer, felt Everett's speech was perfect and Lincoln's was 'gracefully for him'.",
+      "The full text of the Gettysburg Address is reproduced within the historical document."
+    ],
+    "temporal_details": {
+      "date": "November 19, 1863",
+      "time": "Everett's oration lasted two hours; Lincoln's speech was brief and delivered at the close of the ceremony"
+    },
+    "tone": "The tone is profoundly appreciative and reverent towards Lincoln's speech, recognizing its timeless quality and enduring impact despite its initial underappreciation by the audience. It highlights the speech as a 'classic' and implicitly praises Lincoln's wisdom and conciseness, especially when contrasted with the longer, less enduring speech by Edward Everett.",
+    "source_id": "gutenberg_18379",
+    "source_title": "Abraham Lincoln"
+  },
+  {
+    "event": "Second Inaugural Address",
+    "author": "Charnwood, Godfrey Rathbone Benson, Baron, 1864-1945",
+    "claims": [
+      "It was delivered at Abraham Lincoln's second appearance to take the oath of the Presidential office.",
+      "The ceremonial event included a new and striking feature: the presence of a battalion of negro troops in Lincoln's escort.",
+      "Lincoln intended it to be a less extended address than his first, as the public was already well-informed about the war's progress.",
+      "The speech expressed high hope for the future but ventured no predictions regarding the war's outcome.",
+      "It contrasted the circumstances of four years prior, when efforts were made to avert civil war, with the reality of war's continuation.",
+      "It identified slavery, specifically the Southern interest in strengthening, perpetuating, and extending it, as the cause of the war.",
+      "It noted that neither party in the conflict expected the war's ultimate magnitude or duration.",
+      "It observed that both sides read the same Bible, prayed to the same God, and invoked His aid against each other, questioning the morality of those seeking God's assistance while maintaining slavery.",
+      "It posited that the war was God's judgment for the offense of slavery, destined to continue until the wealth from 'two hundred and fifty years of unrequited toil' was repaid and 'every drop of blood drawn with the lash shall be paid with another drawn with the sword'.",
+      "It concluded with the famous lines: 'With malice toward none; with charity for all; with firmness in the right, as God gives us to see the right, let us strive on to finish the work we are in; to bind up the nation's wounds, to care for him who shall have borne the battle, and for his widow, and his orphan--to do all which may achieve and cherish a just and lasting peace among ourselves, and with all nations.'",
+      "Lincoln himself commented on March 15, 1865, that he expected it to 'wear as well as--perhaps better than--anything I have produced'.",
+      "Lincoln believed the address was 'not immediately popular' because it showed 'that there has been a difference of purpose between the Almighty and them' (the people).",
+      "It is regarded as one of the chief outstanding examples of Lincoln's peculiar oratorical power, possessing a 'singular perfection of form'.",
+      "It is particularly notable for its unreserved use of 'the language of intense religious feeling'.",
+      "The speech's thoughts and words were considered unconventional and deeply sincere, coming from Lincoln's own heart.",
+      "The 'Second Inaugural' was read over Lincoln's grave on May 4, 1865, as a fitting tribute."
+    ],
+    "temporal_details": {
+      "date": "March 4, 1865",
+      "time": "Not specified"
+    },
+    "tone": "Analytical and admiring, emphasizing its profound moral and religious depth, unique oratorical power, and Lincoln's sincerity in its delivery. The author highlights its historical significance and its challenging, unconventional message.",
+    "source_id": "gutenberg_18379",
+    "source_title": "Abraham Lincoln"
+  },
+  {
+    "event": "Ford's Theatre Assassination",
+    "author": "Charnwood, Godfrey Rathbone Benson, Baron, 1864-1945",
+    "claims": [
+      "On Good Friday, April 14, 1865, Mr. and Mrs. Lincoln went to the theatre.",
+      "Major Rathbone and his fiancée accompanied them, as the Grants, who were originally to attend, had cancelled.",
+      "The play being performed was 'Our American Cousin'.",
+      "Sometime after 10 o'clock, a shot was heard in the theatre, and Abraham Lincoln fell forward unconscious and dying.",
+      "John Wilkes Booth, described as a 'wild-looking man' and an actor, entered the box unobserved and committed the act.",
+      "Booth struck Major Rathbone with a knife when Rathbone attempted to seize him.",
+      "Booth jumped from the box to the stage, caught a spur in the drapery, fell, and broke the small bone of his leg.",
+      "He rose, shouted 'Sic semper tyrannis,' and escaped behind the scenes, mounting a waiting horse and riding away.",
+      "Booth was the leader of a conspiracy aimed at killing others besides Lincoln, specifically Vice-President Andrew Johnson and Secretary Seward.",
+      "That same night, one of the conspirators, described as a 'gigantic boy of feeble mind,' wounded Seward (who was already injured in bed) and three other people; Seward and the others survived.",
+      "Several conspirators, including the weak-minded boy, another man (who refused to kill Johnson), and an alleged female conspirator, were hanged after a court-martial whose proceedings 'did credit neither to the new President nor to others concerned'.",
+      "Booth himself, after many adventures, was shot and killed in a barn that had been set on fire by pursuing soldiers.",
+      "During his flight, Booth reportedly felt aggrieved that he was not praised like Brutus and Cassius.",
+      "Lincoln was carried still unconscious to a house near the theatre and never regained consciousness.",
+      "Secretary Stanton announced Lincoln's death with the words, 'Now he belongs to the ages'.",
+      "Confederate General Johnston, upon hearing the news from Sherman, exclaimed that it was 'a disgrace to the age' and was observed perspiring heavily.",
+      "Jefferson Davis was unjustly suspected of involvement in the murder and was imprisoned for some time before being released.",
+      "Lincoln's body, bearing 'a look of unspeakable peace', was followed by national mourning during its slow progress to Springfield.",
+      "Lincoln's body was laid to rest in Springfield on May 4, 1865."
+    ],
+    "temporal_details": {
+      "date": "April 14, 1865 (shooting); April 15, 1865 (death); May 4, 1865 (burial)",
+      "time": "Sometime after 10 o'clock PM (shooting); 7:22 AM (death)"
+    },
+    "tone": "The tone is detailed, historical, and solemn. It provides a factual account of the event and its immediate aftermath, conveying the gravity and tragic nature of the assassination. There is a critical note regarding the court-martial proceedings and Booth's self-perception.",
+    "source_id": "gutenberg_18379",
+    "source_title": "Abraham Lincoln"
+  }
+]
