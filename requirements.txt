@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+pydantic
+requests
+beautifulsoup4
+pydantic
+lxml
