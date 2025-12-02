@@ -1,0 +1,744 @@
+[
+  {
+    "event": "Election Night 1860",
+    "source_a": {
+      "author": "Abraham Lincoln",
+      "id": "loc_mal0440500"
+    },
+    "source_b": {
+      "author": "Ketcham, Henry",
+      "id": "gutenberg_6811"
+    },
+    "evaluation": {
+      "consistency_score": 65,
+      "contradictions": [
+        {
+          "type": "omission",
+          "description": "Source A omits all specific factual details regarding the election results, such as the election date, popular vote counts for all candidates, electoral vote counts for all candidates, and the breakdown of Lincoln's performance in free and slave states, which are extensively provided in Source B.",
+          "quote_reference": "Source A: 'Abraham Lincoln was elected President during this event.' (Lacks specific details). Source B: 'The election occurred on November 6, 1860. Lincoln received 1,866,452 popular votes and 180 electoral votes. Stephen A. Douglas received 1,375,157 popular votes and 12 electoral votes. John C. Breckinridge received 847,953 popular votes and 72 electoral votes. John Bell received 590,631 popular votes and 39 electoral votes. Lincoln carried all the free states, except in New Jersey where the electoral vote was divided, with him receiving four out of seven. In the fifteen slave states, Lincoln received no electoral vote. In ten states, not one person had voted for Lincoln. Of the 303 electoral votes, Lincoln received 180, while the aggregate of all against him numbered 123, giving him an absolute majority of 57.'",
+          "severity": "major"
+        },
+        {
+          "type": "omission",
+          "description": "Source B omits any mention of the pre-election negative circulars that portrayed Lincoln as a 'dangerous radical' and 'enemy of the institutions of the South', which Source A claims were unsettling and influential.",
+          "quote_reference": "Source A: 'Leading up to the election, negative circulars were distributed, portraying Lincoln as a 'dangerous radical' and an 'enemy of the institutions of the South', which were seen as unsettling and influential.' Source B: (No mention of pre-election circulars).",
+          "severity": "moderate"
+        },
+        {
+          "type": "omission",
+          "description": "Source B omits the detail that the election's outcome immediately prompted concerns and calls for Lincoln to make a public declaration to allay anxieties and 'disarm mischief makers', as stated in Source A.",
+          "quote_reference": "Source A: 'The election's outcome immediately prompted concerns among some, leading to calls for Lincoln to make a public declaration to allay anxieties and 'disarm mischief makers'.' Source B: (No mention of public calls for declaration).",
+          "severity": "moderate"
+        },
+        {
+          "type": "omission",
+          "description": "Source A omits the personal anecdote of Lincoln seeing a double image in a mirror, his wife's interpretation of it as a sign for his second term and death, and Lincoln's own belief that he would not live to see the end of the national crisis, all detailed in Source B.",
+          "quote_reference": "Source B: 'While resting, Lincoln saw himself reflected in a swinging mirror with two separate and distinct images, one face being about five shades paler than the other. Lincoln's wife thought the double image was 'a sign' that he would be elected to a second term but would not live to see its end. Lincoln was oppressed with the belief that he would not live to see the end of the national crisis.' Source A: (No mention of this personal experience).",
+          "severity": "moderate"
+        },
+        {
+          "type": "omission",
+          "description": "Source A omits Stephen A. Douglas's comment made in Washington that night, 'There won't be a tar barrel left in Illinois' tonight,' as reported in Source B.",
+          "quote_reference": "Source B: 'In Washington that night, when asked 'Who is this man Lincoln, anyhow?', Douglas replied, 'There won't be a tar barrel left in Illinois' tonight.'' Source A: (No mention of Douglas's comment).",
+          "severity": "minor"
+        }
+      ],
+      "reasoning": "The sources agree on the core event (Lincoln's election) but present significantly different sets of details, leading to numerous omissions rather than direct contradictions. Source B provides extensive factual election data, while Source A focuses on political atmosphere and challenges. The omissions are substantial enough to place the consistency in the moderate range.",
+      "confidence": "high",
+      "metadata": {
+        "event": "Election Night 1860",
+        "source_a_author": "Abraham Lincoln",
+        "source_b_author": "Ketcham, Henry",
+        "model": "gemini/gemini-2.5-flash",
+        "temperature": 0.0
+      }
+    }
+  },
+  {
+    "event": "Election Night 1860",
+    "source_a": {
+      "author": "Abraham Lincoln",
+      "id": "loc_mal0440500"
+    },
+    "source_b": {
+      "author": "Morse, John T., Jr. (John Torrey), 1840-1937",
+      "id": "gutenberg_12801"
+    },
+    "evaluation": {
+      "consistency_score": 58,
+      "contradictions": [
+        {
+          "type": "omission",
+          "description": "Source A omits the specific and severe consequence of Lincoln's election being a 'signal for secession', instead referring more generally to 'concerns' and 'anxieties'.",
+          "quote_reference": "Source A: 'prompted concerns among some, leading to calls for Lincoln to make a public declaration to allay anxieties and 'disarm mischief makers'.' | Source B: 'Abraham Lincoln's election was the signal for secession.'",
+          "severity": "major"
+        },
+        {
+          "type": "omission",
+          "description": "Source A omits the detail that Abraham Lincoln was the choice of a minority of voters.",
+          "quote_reference": "Source B: 'Abraham Lincoln was the choice of a minority of voters.'",
+          "severity": "moderate"
+        },
+        {
+          "type": "omission",
+          "description": "Source B omits the detail about negative circulars being distributed before the election, portraying Lincoln as a 'dangerous radical' and 'enemy of the institutions of the South'.",
+          "quote_reference": "Source A: 'Leading up to the election, negative circulars were distributed, portraying Lincoln as a 'dangerous radical' and an 'enemy of the institutions of the South', which were seen as unsettling and influential.'",
+          "severity": "moderate"
+        },
+        {
+          "type": "omission",
+          "description": "Source A omits the detail that John C. Breckinridge announced the election of Lincoln.",
+          "quote_reference": "Source B: 'John C. Breckinridge announced the election of Lincoln.'",
+          "severity": "minor"
+        }
+      ],
+      "reasoning": "Both sources agree on the core fact of Lincoln's election. However, they present different sets of significant details and immediate consequences. The omission of 'secession' in Source A is a major difference, as is the omission of Lincoln being a 'minority choice'. Source B also omits pre-election propaganda mentioned by Source A. These omissions lead to moderately different narratives, preventing a higher consistency score.",
+      "confidence": "high",
+      "metadata": {
+        "event": "Election Night 1860",
+        "source_a_author": "Abraham Lincoln",
+        "source_b_author": "Morse, John T., Jr. (John Torrey), 1840-1937",
+        "model": "gemini/gemini-2.5-flash",
+        "temperature": 0.0
+      }
+    }
+  },
+  {
+    "event": "Election Night 1860",
+    "source_a": {
+      "author": "Abraham Lincoln",
+      "id": "loc_mal0440500"
+    },
+    "source_b": {
+      "author": "Browne, Francis F. (Francis Fisher), 1843-1913",
+      "id": "gutenberg_14004"
+    },
+    "evaluation": {
+      "consistency_score": 60,
+      "contradictions": [
+        {
+          "type": "omission",
+          "description": "Source A omits the detailed breakdown of the 1860 election, including the division of the Democratic party, the specific candidates (Stephen Douglas, John C. Breckenridge, John Bell), the number of electoral and popular votes, the fact that more popular votes were cast against Lincoln, and the sectional nature of the vote (e.g., 'Solid South' against him, states with no votes for Lincoln).",
+          "quote_reference": "Source A: 'Abraham Lincoln was elected President during this event.' Source B: 'Lincoln's victory was aided by an unexpected division in the Democratic party... The Democratic party had nominated Stephen Douglas, but an extreme slavery faction nominated John C. Breckenridge... A 'Constitutional Union Party' also nominated John Bell of Tennessee... There were four presidential tickets in the field... Lincoln secured a substantial majority of the electoral vote (180 to 123)... The popular vote was nearly a million (930,170) more against him than for him... Fifteen states gave Lincoln no electoral vote, and in nine states, he received no popular vote. The slave states, or 'the Solid South,' were squarely against Lincoln.'",
+          "severity": "major"
+        },
+        {
+          "type": "omission",
+          "description": "Source B omits the specific 'calls for Lincoln to make a public declaration to allay anxieties and 'disarm mischief makers'' that Source A states immediately followed the election.",
+          "quote_reference": "Source A: 'The election's outcome immediately prompted concerns among some, leading to calls for Lincoln to make a public declaration to allay anxieties and 'disarm mischief makers'.' Source B: (No mention of calls for public declaration).",
+          "severity": "moderate"
+        },
+        {
+          "type": "omission",
+          "description": "Source B omits any mention of the 'negative circulars' distributed before the election, which Source A describes as portraying Lincoln as a 'dangerous radical' and an 'enemy of the institutions of the South,' and being unsettling and influential.",
+          "quote_reference": "Source A: 'Leading up to the election, negative circulars were distributed, portraying Lincoln as a 'dangerous radical' and an 'enemy of the institutions of the South', which were seen as unsettling and influential.' Source B: (No mention of negative circulars or specific campaign tactics against Lincoln).",
+          "severity": "moderate"
+        },
+        {
+          "type": "omission",
+          "description": "Source A omits the detailed account of Lincoln being 'beset by visitors from all parts of the country' immediately after the election, the designation of the Executive Chamber as his reception room, and his patient handling of these visitors from morning until night.",
+          "quote_reference": "Source A: (No mention of visitors or reception room). Source B: 'Immediately after the election, Lincoln was beset by visitors from all parts of the country... The large number of visitors led to the Executive Chamber in the State House being designated as his reception room. Lincoln met a diverse range of visitors from morning until night with conscientious care and unwearying patience.'",
+          "severity": "moderate"
+        },
+        {
+          "type": "interpretive",
+          "description": "While both sources acknowledge post-election concerns, Source A emphasizes external pressure for Lincoln to make a public declaration to 'disarm mischief makers', whereas Source B focuses on Lincoln's internal feelings of 'regret and apprehension' alongside his 'calm resolve' and his engagement with visitors.",
+          "quote_reference": "Source A: 'The election's outcome immediately prompted concerns among some, leading to calls for Lincoln to make a public declaration to allay anxieties and 'disarm mischief makers'.' Source B: 'Lincoln felt regret and apprehension regarding the election results but faced the future without dismay and with calm resolve.'",
+          "severity": "minor"
+        }
+      ],
+      "reasoning": "The sources agree on the core event of Lincoln's election but differ significantly in the scope and detail of their accounts. Source B provides extensive factual details about the election mechanics and results that Source A omits, while Source A highlights specific political pressures and pre-election campaigning not mentioned in Source B. There are no direct factual contradictions, but numerous significant omissions lead to a moderate consistency score.",
+      "confidence": "medium",
+      "metadata": {
+        "event": "Election Night 1860",
+        "source_a_author": "Abraham Lincoln",
+        "source_b_author": "Browne, Francis F. (Francis Fisher), 1843-1913",
+        "model": "gemini/gemini-2.5-flash",
+        "temperature": 0.0
+      }
+    }
+  },
+  {
+    "event": "Election Night 1860",
+    "source_a": {
+      "author": "Abraham Lincoln",
+      "id": "loc_mal0440500"
+    },
+    "source_b": {
+      "author": "Charnwood, Godfrey Rathbone Benson, Baron, 1864-1945",
+      "id": "gutenberg_18379"
+    },
+    "evaluation": {
+      "consistency_score": 65,
+      "contradictions": [
+        {
+          "type": "omission",
+          "description": "Source A does not provide details about Abraham Lincoln's specific location or actions on election night, such as being in a telegraph box in Springfield or his immediate consideration of Cabinet choices.",
+          "quote_reference": "Source A: (No corresponding text). Source B: 'On the night of November 6, Lincoln sat alone with the operator in the telegraph box at Springfield.' and 'Before leaving the telegraph box, Lincoln had solved in principle the first and by no means least important problem of his Presidency: the choice of a Cabinet.'",
+          "severity": "moderate"
+        },
+        {
+          "type": "omission",
+          "description": "Source A omits any detailed analysis of the popular vote, specifically that Lincoln was elected by a minority of the American people in terms of popular votes, the geographical distribution of his votes (almost exclusively Northern states), and the historical significance of the North outvoting the South.",
+          "quote_reference": "Source A: (No corresponding text). Source B: 'The victory was in one aspect far from complete, as the new President was elected by a minority of the American people in terms of popular votes.' and 'Lincoln's votes were drawn only from the Northern States; he carried almost all the free States and no others.' and 'For the first time in American history, the united North had used its superior numbers to outvote the South.'",
+          "severity": "major"
+        },
+        {
+          "type": "omission",
+          "description": "Source B does not mention the distribution of negative circulars prior to the election, which portrayed Lincoln as a 'dangerous radical' and an 'enemy of the institutions of the South'.",
+          "quote_reference": "Source A: 'Leading up to the election, negative circulars were distributed, portraying Lincoln as a 'dangerous radical' and an 'enemy of the institutions of the South', which were seen as unsettling and influential.' Source B: (No corresponding text).",
+          "severity": "minor"
+        }
+      ],
+      "reasoning": "The sources agree on the core event of Lincoln's election and the immediate negative reactions. However, Source B offers significantly more analytical depth regarding the nature of Lincoln's victory (minority popular vote, North-South divide) and specific details of election night, which are substantial omissions in Source A. Source A provides a unique detail about pre-election circulars. The omissions in Source A are more impactful on the overall understanding of the event's context and implications.",
+      "confidence": "high",
+      "metadata": {
+        "event": "Election Night 1860",
+        "source_a_author": "Abraham Lincoln",
+        "source_b_author": "Charnwood, Godfrey Rathbone Benson, Baron, 1864-1945",
+        "model": "gemini/gemini-2.5-flash",
+        "temperature": 0.0
+      }
+    }
+  },
+  {
+    "event": "Fort Sumter Decision",
+    "source_a": {
+      "author": "Robert S. Chew",
+      "id": "loc_mal.0882800"
+    },
+    "source_b": {
+      "author": "Hay, John, 1838-1905",
+      "id": "gutenberg_6812"
+    },
+    "evaluation": {
+      "consistency_score": 60,
+      "contradictions": [
+        {
+          "type": "omission",
+          "description": "Source A omits the identity of the commander of Fort Sumter in April 1861, a detail provided by Source B.",
+          "quote_reference": "Source A: 'The President of the United States (Abraham Lincoln) decided to notify Governor Pickens of an attempt to supply Fort Sumter with provisions only.' (No mention of commander)\nSource B: 'Lieutenant Robert Anderson was in command of Fort Sumter in April, 1861.'",
+          "severity": "moderate"
+        },
+        {
+          "type": "omission",
+          "description": "Source B omits all details regarding President Lincoln's decision to notify Governor Pickens about the resupply of Fort Sumter, the specific conditions of the notification, the role of Robert S. Chew, and the dates of these events (April 6 and 8, 1861). These are central to the 'Fort Sumter Decision' as described by Source A.",
+          "quote_reference": "Source A: 'The President of the United States (Abraham Lincoln) decided to notify Governor Pickens of an attempt to supply Fort Sumter with provisions only.' 'The formal orders for this mission were issued by the War Department on April 6, 1861.' 'Upon arriving in Charleston on April 8, 1861, Chew confirmed...' (All these details are absent from Source B)\nSource B: (No mention of Lincoln's decision, notification, Chew's mission, or specific dates related to these actions.)",
+          "severity": "major"
+        }
+      ],
+      "reasoning": "There are no direct contradictions between the two sources. However, both sources exhibit significant omissions regarding details provided by the other. Source A focuses on the diplomatic mission and decision-making, while Source B provides a specific detail about the fort's commander. The lack of overlapping information and the substantial omissions, particularly from Source B regarding the core 'decision' aspect, lead to a moderate consistency score.",
+      "confidence": "medium",
+      "metadata": {
+        "event": "Fort Sumter Decision",
+        "source_a_author": "Robert S. Chew",
+        "source_b_author": "Hay, John, 1838-1905",
+        "model": "gemini/gemini-2.5-flash",
+        "temperature": 0.0
+      }
+    }
+  },
+  {
+    "event": "Fort Sumter Decision",
+    "source_a": {
+      "author": "Robert S. Chew",
+      "id": "loc_mal.0882800"
+    },
+    "source_b": {
+      "author": "Ketcham, Henry",
+      "id": "gutenberg_6811"
+    },
+    "evaluation": {
+      "consistency_score": 45,
+      "contradictions": [
+        {
+          "type": "factual",
+          "description": "The sources contradict on the conditions under which force would be used during the resupply attempt, as stated in Lincoln's notification to Governor Pickens. Source A states that 'if the resupply attempt was not resisted, no effort to introduce men, arms, or ammunition would be made without further notice, or in case of an attack upon the Fort,' implying a conditional and delayed use of military force. Source B, however, claims Lincoln's notice stated the attempt would be made 'peaceably if possible, or by force otherwise,' suggesting an immediate readiness to use force if resistance occurred.",
+          "quote_reference": "Source A: 'The President's notification specified that if the resupply attempt was not resisted, no effort to introduce men, arms, or ammunition would be made without further notice, or in case of an attack upon the Fort.' Source B: 'Lincoln sent notice to Governor Pickens that an attempt to provision Sumter would be made, peaceably if possible, or by force otherwise.'",
+          "severity": "major"
+        },
+        {
+          "type": "omission",
+          "description": "Source B omits the detailed account of Robert S. Chew's mission, including his specific role, the dates of the orders and arrival (April 6 and April 8, 1861), and the confirmation that Fort Sumter had not been surrendered, evacuated, or attacked upon his arrival.",
+          "quote_reference": "Source A: 'Instructions and the message carried by Robert S. Chew to Governor Pickens were drafted by Abraham Lincoln.' 'The formal orders for this mission were issued by the War Department on April 6, 1861.' 'Upon arriving in Charleston on April 8, 1861, Chew confirmed that Fort Sumter had neither been surrendered, evacuated, nor attacked.'",
+          "severity": "moderate"
+        },
+        {
+          "type": "omission",
+          "description": "Source A omits any details regarding Major Anderson's situation at Fort Sumter, such as the number of men, insufficient ammunition, or lack of provisions, which Source B highlights as critical context.",
+          "quote_reference": "Source B: 'Major Anderson, in command of Fort Sumter, was beleaguered with a handful of men (76 combatants, 128 total), insufficient ammunition, and nearly out of provisions.'",
+          "severity": "moderate"
+        },
+        {
+          "type": "omission",
+          "description": "Source A does not mention General Beauregard's direct responses to Major Anderson, such as sending a summons to surrender, Anderson's reply, Beauregard intercepting Anderson's mail, or Beauregard giving notice to open fire, all of which are detailed in Source B.",
+          "quote_reference": "Source B: 'General Beauregard, in command of Southern military forces, responded by sending Major Anderson a summons to surrender.' 'Beauregard intercepted Major Anderson's mail before notifying him of hostilities.' 'Beauregard gave notice to Major Anderson that he would open fire on Fort Sumter.'",
+          "severity": "moderate"
+        },
+        {
+          "type": "omission",
+          "description": "Source A concludes with the delivery of the notification and does not offer any interpretive analysis of the strategic outcome or Lincoln's broader political objectives, which Source B explicitly discusses.",
+          "quote_reference": "Source B: 'Lincoln's adherence to his inaugural promises... ensured that if war began, it would be initiated by the South, by firing on the flag.' 'Beauregard got the fort, the President got nearly everything else' and 'Beauregard got the fort, but Lincoln got the game,' highlighting Lincoln's strategic victory in uniting the North.'",
+          "severity": "moderate"
+        }
+      ],
+      "reasoning": "The score reflects a significant factual contradiction regarding the terms of Lincoln's notification about the use of force, which is a central element of the event. Additionally, there are several moderate omissions where each source provides significant details not present in the other, leading to a fragmented understanding when viewed together.",
+      "confidence": "high",
+      "metadata": {
+        "event": "Fort Sumter Decision",
+        "source_a_author": "Robert S. Chew",
+        "source_b_author": "Ketcham, Henry",
+        "model": "gemini/gemini-2.5-flash",
+        "temperature": 0.0
+      }
+    }
+  },
+  {
+    "event": "Fort Sumter Decision",
+    "source_a": {
+      "author": "Robert S. Chew",
+      "id": "loc_mal.0882800"
+    },
+    "source_b": {
+      "author": "Morse, John T., Jr. (John Torrey), 1840-1937",
+      "id": "gutenberg_12801"
+    },
+    "evaluation": {
+      "consistency_score": 45,
+      "contradictions": [
+        {
+          "type": "factual",
+          "description": "Source A states that President Lincoln decided to notify Governor Pickens of the resupply attempt, and Robert S. Chew delivered this notification directly to Governor Pickens. Source B, however, claims that General P.G.T. Beauregard was notified by Lincoln.",
+          "quote_reference": "Source A: 'The President of the United States (Abraham Lincoln) decided to notify Governor Pickens of an attempt to supply Fort Sumter with provisions only.' and 'Chew successfully read the notification to Governor Pickens and delivered a copy of it.' Source B: 'General P.G.T. Beauregard was notified by Lincoln of the purpose to reinforce Sumter.'",
+          "severity": "moderate"
+        },
+        {
+          "type": "omission",
+          "description": "Source A provides extensive details about Robert S. Chew's specific mission, including the drafting of instructions by Lincoln, the formal orders issued by the War Department on April 6, 1861, Chew's arrival in Charleston on April 8, 1861, and the specific conditions of the notification. These operational details are entirely omitted from Source B.",
+          "quote_reference": "Source A: 'Instructions and the message carried by Robert S. Chew to Governor Pickens were drafted by Abraham Lincoln.' 'The formal orders for this mission were issued by the War Department on April 6, 1861.' 'Upon arriving in Charleston on April 8, 1861, Chew confirmed that Fort Sumter had neither been surrendered, evacuated, nor attacked.'",
+          "severity": "major"
+        },
+        {
+          "type": "omission",
+          "description": "Source B provides numerous details about broader political and military aspects of the Fort Sumter decision, including the opinions of various cabinet members (Bates, Cameron, Chase, Blair, Seward), Beauregard's actions (requesting surrender, commanding bombardment), Lincoln's consultation with Scott and his cabinet, and Lincoln's perceived blame or fault. These significant contextual details are entirely omitted from Source A.",
+          "quote_reference": "Source B: 'Edward Bates, Attorney-General, opposed reinforcing Sumter.' 'Beauregard requested the surrender of Sumter.' 'Beauregard commanded the bombardment of Sumter.' 'Lincoln asked advice of his cabinet regarding Sumter.' 'Lincoln admitted blame for failure concerning Sumter.'",
+          "severity": "major"
+        }
+      ],
+      "reasoning": "The sources present a moderate factual contradiction regarding the direct recipient of Lincoln's notification. Additionally, both sources contain significant omissions of details present in the other, indicating they focus on different aspects of the Fort Sumter decision rather than providing a fully consistent, overlapping narrative.",
+      "confidence": "medium",
+      "metadata": {
+        "event": "Fort Sumter Decision",
+        "source_a_author": "Robert S. Chew",
+        "source_b_author": "Morse, John T., Jr. (John Torrey), 1840-1937",
+        "model": "gemini/gemini-2.5-flash",
+        "temperature": 0.0
+      }
+    }
+  },
+  {
+    "event": "Fort Sumter Decision",
+    "source_a": {
+      "author": "Robert S. Chew",
+      "id": "loc_mal.0882800"
+    },
+    "source_b": {
+      "author": "Browne, Francis F. (Francis Fisher), 1843-1913",
+      "id": "gutenberg_14004"
+    },
+    "evaluation": {
+      "consistency_score": 65,
+      "contradictions": [
+        {
+          "type": "omission",
+          "description": "Source A omits any mention of the actual Confederate attack on Fort Sumter, its date (April 12, 1861), or the immediate consequences and policy shifts that followed, which are central to Source B's account.",
+          "quote_reference": "Source A ends with Chew delivering the notification and not being authorized to receive a reply, without mentioning the subsequent attack. Source B states: 'The Confederate attack upon Fort Sumter on April 12, 1861, was the signal that civil war had actually begun.'",
+          "severity": "major"
+        },
+        {
+          "type": "omission",
+          "description": "Source B omits any mention of President Lincoln's specific notification attempt regarding the provision-only resupply of Fort Sumter, the role of Robert S. Chew, or Governor Pickens' involvement prior to the attack. This context is crucial for understanding Lincoln's 'conciliatory policy' mentioned in Source B.",
+          "quote_reference": "Source B states: 'Prior to the attack, Lincoln had maintained a conciliatory policy toward the States in rebellion.' but does not detail the specific notification described in Source A: 'The President of the United States (Abraham Lincoln) decided to notify Governor Pickens of an attempt to supply Fort Sumter with provisions only.'",
+          "severity": "moderate"
+        }
+      ],
+      "reasoning": "The sources do not directly contradict each other on any specific facts. Instead, they cover different chronological segments and aspects of the Fort Sumter event. Source A details the pre-attack diplomatic efforts, while Source B focuses on the attack and its aftermath. The significant omissions from each source regarding the other's primary focus prevent a higher consistency score, as they present an incomplete picture when viewed in isolation, despite not having conflicting claims.",
+      "confidence": "high",
+      "metadata": {
+        "event": "Fort Sumter Decision",
+        "source_a_author": "Robert S. Chew",
+        "source_b_author": "Browne, Francis F. (Francis Fisher), 1843-1913",
+        "model": "gemini/gemini-2.5-flash",
+        "temperature": 0.0
+      }
+    }
+  },
+  {
+    "event": "Fort Sumter Decision",
+    "source_a": {
+      "author": "Robert S. Chew",
+      "id": "loc_mal.0882800"
+    },
+    "source_b": {
+      "author": "Charnwood, Godfrey Rathbone Benson, Baron, 1864-1945",
+      "id": "gutenberg_18379"
+    },
+    "evaluation": {
+      "consistency_score": 65,
+      "contradictions": [
+        {
+          "type": "omission",
+          "description": "Source A omits the detailed context of Lincoln's decision-making process, including Major Anderson's report on the fort's condition, General Scott's military advice, the cabinet discussions, and the differing opinions among advisors regarding provisioning or evacuating Fort Sumter. This background is crucial for understanding the 'Fort Sumter Decision'.",
+          "quote_reference": "Source A: 'The President of the United States (Abraham Lincoln) decided to notify Governor Pickens...' vs. Source B: 'Major Anderson at Fort Sumter informed Lincoln... General Scott advised Lincoln... The Cabinet and military/naval advisers discussed... Lincoln focused on the political advisability... Blair and Chase supporting it... five other cabinet members, along with General Scott, recommending evacuation.'",
+          "severity": "major"
+        },
+        {
+          "type": "omission",
+          "description": "Source A concludes with the delivery of the notification on April 8, 1861, completely omitting the subsequent critical events of the Fort Sumter Decision, specifically the Confederate attack on April 12, the fort becoming untenable on April 13, and Anderson's capitulation on April 14.",
+          "quote_reference": "Source A: 'Upon arriving in Charleston on April 8, 1861, Chew confirmed that Fort Sumter had neither been surrendered, evacuated, nor attacked. Chew successfully read the notification to Governor Pickens and delivered a copy of it.' vs. Source B: 'Confederate batteries opened fire on Fort Sumter on April 12... Fort Sumter became untenable on April 13... Anderson capitulated on April 14, 1861...'",
+          "severity": "major"
+        },
+        {
+          "type": "omission",
+          "description": "Source B omits the specific name of the messenger, Robert S. Chew, and the precise dates of the formal orders for his mission (April 6, 1861) and his arrival in Charleston (April 8, 1861).",
+          "quote_reference": "Source A: 'Instructions and the message carried by Robert S. Chew... formal orders for this mission were issued by the War Department on April 6, 1861... Upon arriving in Charleston on April 8, 1861, Chew confirmed...' vs. Source B: 'An announcement was sent to the Governor of South Carolina...'",
+          "severity": "moderate"
+        },
+        {
+          "type": "omission",
+          "description": "Source B does not mention that the messenger (Chew) was not authorized to receive any communication in reply from Governor Pickens.",
+          "quote_reference": "Source A: 'Chew was not authorized to receive any communication in reply from Governor Pickens.' vs. Source B: (no mention)",
+          "severity": "minor"
+        }
+      ],
+      "reasoning": "The sources are consistent on the core factual details where they overlap, particularly regarding the nature of Lincoln's notification (provisions only, no further action if unopposed). However, Source A provides a very narrow account focused solely on the messenger's mission, omitting significant context leading to the decision and the crucial immediate aftermath (the attack and surrender). Source B offers a much broader, more complete narrative of the 'Fort Sumter Decision' as a whole, including the deliberations and consequences. The major omissions in Source A significantly impact its completeness, leading to a moderate consistency score.",
+      "confidence": "high",
+      "metadata": {
+        "event": "Fort Sumter Decision",
+        "source_a_author": "Robert S. Chew",
+        "source_b_author": "Charnwood, Godfrey Rathbone Benson, Baron, 1864-1945",
+        "model": "gemini/gemini-2.5-flash",
+        "temperature": 0.0
+      }
+    }
+  },
+  {
+    "event": "Gettysburg Address",
+    "source_a": {
+      "author": "None",
+      "id": "loc_gettysburg_nicolay"
+    },
+    "source_b": {
+      "author": "Hay, John, 1838-1905",
+      "id": "gutenberg_6812"
+    },
+    "evaluation": {
+      "consistency_score": 95,
+      "contradictions": [],
+      "reasoning": "The sources are highly consistent as they discuss different, non-overlapping aspects of the Gettysburg Address without any direct factual or interpretive contradictions. Source A focuses on the textual history and physical forms of the address, while Source B analyzes its rhetorical style and compares it to other Lincoln speeches. The omissions in each source are due to their differing focuses and do not create any conflict.",
+      "confidence": "high",
+      "metadata": {
+        "event": "Gettysburg Address",
+        "source_a_author": "None",
+        "source_b_author": "Hay, John, 1838-1905",
+        "model": "gemini/gemini-2.5-flash",
+        "temperature": 0.0
+      }
+    }
+  },
+  {
+    "event": "Gettysburg Address",
+    "source_a": {
+      "author": "None",
+      "id": "loc_gettysburg_nicolay"
+    },
+    "source_b": {
+      "author": "Ketcham, Henry",
+      "id": "gutenberg_6811"
+    },
+    "evaluation": {
+      "consistency_score": 55,
+      "contradictions": [],
+      "reasoning": "The sources present largely distinct information about the Gettysburg Address. Source A focuses on textual versions, while Source B details the event, delivery, and reception. There are no direct contradictions, but significant omissions from both sources regarding the other's primary subject matter.",
+      "confidence": "medium",
+      "metadata": {
+        "event": "Gettysburg Address",
+        "source_a_author": "None",
+        "source_b_author": "Ketcham, Henry",
+        "model": "gemini/gemini-2.5-flash",
+        "temperature": 0.0
+      }
+    }
+  },
+  {
+    "event": "Gettysburg Address",
+    "source_a": {
+      "author": "None",
+      "id": "loc_gettysburg_nicolay"
+    },
+    "source_b": {
+      "author": "Morse, John T., Jr. (John Torrey), 1840-1937",
+      "id": "gutenberg_12801"
+    },
+    "evaluation": {
+      "consistency_score": 68,
+      "contradictions": [
+        {
+          "type": "omission",
+          "description": "Source A omits nearly all historical context regarding the event of the Gettysburg Address, including the date, location, purpose, the role of Edward Everett, and Lincoln's speaking order, all of which are detailed in Source B.",
+          "quote_reference": "Source A: 'The provided text is identified as the \u201cNicolay Copy\u201d of the Gettysburg Address.' (No context provided) vs. Source B: 'The Gettysburg Address occurred in the autumn of 1863. It was delivered at the consecration of the national military cemetery at Gettysburg. Edward Everett was scheduled to deliver the main oration... President Lincoln spoke after Mr. Everett finished his oration.'",
+          "severity": "major"
+        },
+        {
+          "type": "omission",
+          "description": "Source B provides a discussion about the composition of the address, including Mr. Arnold's claim of extemporaneous writing and the author's doubt, citing an invitation note from Nicolay and Hay. This detailed discussion of the composition process is omitted in Source A, although Source A does mention the existence of 'two drafts'.",
+          "quote_reference": "Source B: 'Mr. Arnold claims Lincoln was told he would be expected to speak while 'in the cars on his way from the White House to the battlefield' and jotted down the address then. The author doubts the claim that the composition was entirely extemporaneous. Messrs. Nicolay and Hay transcribe an invitation note to the President, dated November 2, stating the desire for him to 'formally set apart these grounds to their sacred use, by a few appropriate remarks'.' vs. Source A: 'There are two drafts of the Gettysburg Address, and differences between them are indicated by emphasis type.'",
+          "severity": "moderate"
+        },
+        {
+          "type": "omission",
+          "description": "Source A details specific named versions of the Gettysburg Address, such as the 'Nicolay Copy,' 'Nicolay and Hay versions,' and the 'Bliss version,' and mentions a 'standard text' on the Lincoln Memorial wall. Source B provides 'the full text' but does not identify it within this framework of multiple named versions.",
+          "quote_reference": "Source A: 'The provided text is identified as the \u201cNicolay Copy\u201d of the Gettysburg Address... The Nicolay and Hay versions of the Gettysburg Address differ from the generally printed Bliss version. A standard text of the Gettysburg Address is inscribed on the wall of the Lincoln Memorial.' vs. Source B: 'The full text of the Gettysburg Address is provided in the document.'",
+          "severity": "moderate"
+        },
+        {
+          "type": "omission",
+          "description": "Source B describes aspects of Lincoln's delivery of the address and its immediate impact on English literature. These details are entirely absent from Source A.",
+          "quote_reference": "Source B: 'Mr. Arnold states that Mr. Lincoln 'adjusted his spectacles' and read his address in an unconscious and absorbed manner. The literature of the English language received 'one of its most distinguished acquisitions' through this event.' vs. Source A: (No mention of delivery or impact)",
+          "severity": "minor"
+        }
+      ],
+      "reasoning": "The sources are largely consistent in their underlying subject matter but differ significantly in scope and focus. There are no direct factual or interpretive contradictions. The score reflects numerous omissions, particularly Source A's lack of historical context for the event and Source B's lack of detail on specific named textual versions, which prevent a higher consistency score.",
+      "confidence": "high",
+      "metadata": {
+        "event": "Gettysburg Address",
+        "source_a_author": "None",
+        "source_b_author": "Morse, John T., Jr. (John Torrey), 1840-1937",
+        "model": "gemini/gemini-2.5-flash",
+        "temperature": 0.0
+      }
+    }
+  },
+  {
+    "event": "Gettysburg Address",
+    "source_a": {
+      "author": "None",
+      "id": "loc_gettysburg_nicolay"
+    },
+    "source_b": {
+      "author": "Browne, Francis F. (Francis Fisher), 1843-1913",
+      "id": "gutenberg_14004"
+    },
+    "evaluation": {
+      "consistency_score": 60,
+      "contradictions": [
+        {
+          "type": "omission",
+          "description": "Source A omits all details regarding the context of the Gettysburg Address's delivery, including the ceremony's purpose, the roles of other speakers like Edward Everett, the audience's reaction, and the immediate aftermath of the speech.",
+          "quote_reference": "Source B extensively details these aspects, for example: 'A portion of the Gettysburg battlefield...was purchased by the State of Pennsylvania for a burial-place for Union soldiers,' 'Hon. Edward Everett was selected as the chief orator,' 'the multitude called vociferously for an address from Lincoln,' 'The simple and sublime words of Lincoln's address 'shook the hearts of the listeners.''",
+          "severity": "major"
+        },
+        {
+          "type": "omission",
+          "description": "Source B omits all details regarding the textual history and different versions of the Gettysburg Address, such as the existence of multiple drafts (Nicolay, Hay, Bliss versions) and its inscription on the Lincoln Memorial.",
+          "quote_reference": "Source A explicitly states: 'The provided text is identified as the \u201cNicolay Copy\u201d of the Gettysburg Address,' 'There are two drafts of the Gettysburg Address, and differences between them are indicated by emphasis type,' 'The Nicolay and Hay versions of the Gettysburg Address differ from the generally printed Bliss version,' and 'A standard text of the Gettysburg Address is inscribed on the wall of the Lincoln Memorial.'",
+          "severity": "moderate"
+        }
+      ],
+      "reasoning": "The sources do not contain any direct factual or interpretive contradictions. However, they focus on entirely different aspects of the Gettysburg Address. Source A details the textual history and different versions of the document, while Source B describes the event of its delivery, the context, and its reception. Consequently, each source contains significant omissions of information central to the other's narrative, leading to a moderate consistency score.",
+      "confidence": "high",
+      "metadata": {
+        "event": "Gettysburg Address",
+        "source_a_author": "None",
+        "source_b_author": "Browne, Francis F. (Francis Fisher), 1843-1913",
+        "model": "gemini/gemini-2.5-flash",
+        "temperature": 0.0
+      }
+    }
+  },
+  {
+    "event": "Gettysburg Address",
+    "source_a": {
+      "author": "None",
+      "id": "loc_gettysburg_nicolay"
+    },
+    "source_b": {
+      "author": "Charnwood, Godfrey Rathbone Benson, Baron, 1864-1945",
+      "id": "gutenberg_18379"
+    },
+    "evaluation": {
+      "consistency_score": 65,
+      "contradictions": [
+        {
+          "type": "omission",
+          "description": "Source A focuses exclusively on the textual aspects of the Gettysburg Address, completely omitting the historical context of its delivery, the other prominent speaker (Edward Everett), and the audience's reception, which are central to Source B's account.",
+          "quote_reference": "Source A: 'The provided text is identified as the \u201cNicolay Copy\u201d of the Gettysburg Address.' (Focus on text). Source B: 'The event was fittingly commemorated by State Governors who instituted a National Cemetery upon the field of Gettysburg. The dedication speech (oration) was delivered by Edward Everett...' (Details omitted by Source A).",
+          "severity": "major"
+        },
+        {
+          "type": "omission",
+          "description": "Source B provides an account of the event and the speeches delivered, but it completely omits any discussion of the different textual versions or drafts of the Gettysburg Address, their variations, or their historical preservation (like the Lincoln Memorial inscription), which are the primary focus of Source A.",
+          "quote_reference": "Source B: 'The full text of the Gettysburg Address is provided in the document.' (Implies a single text, without discussing variations). Source A: 'There are two drafts of the Gettysburg Address, and differences between them are indicated by emphasis type. The Nicolay and Hay versions of the Gettysburg Address differ from the generally printed Bliss version.' (Details omitted by Source B).",
+          "severity": "major"
+        }
+      ],
+      "reasoning": "The sources do not contradict each other directly, but they focus on entirely different aspects of the Gettysburg Address (textual history vs. event context and reception). Each source omits significant details that the other provides, leading to a moderate consistency score.",
+      "confidence": "medium",
+      "metadata": {
+        "event": "Gettysburg Address",
+        "source_a_author": "None",
+        "source_b_author": "Charnwood, Godfrey Rathbone Benson, Baron, 1864-1945",
+        "model": "gemini/gemini-2.5-flash",
+        "temperature": 0.0
+      }
+    }
+  },
+  {
+    "event": "Second Inaugural Address",
+    "source_a": {
+      "author": "None",
+      "id": "loc_mal.4361300"
+    },
+    "source_b": {
+      "author": "Ketcham, Henry",
+      "id": "gutenberg_6811"
+    },
+    "evaluation": {
+      "consistency_score": 65,
+      "contradictions": [
+        {
+          "type": "omission",
+          "description": "Source A omits any discussion of the content, themes, spiritual tone, or literary qualities of the Second Inaugural Address, which are central to Source B's analysis.",
+          "quote_reference": "Source A: 'The document provided is described as the 'only known manuscript' of Lincoln's famous Second Inaugural Address.' (focuses on physical document) vs. Source B: 'It contained little new policy to proclaim... It breathes an intangible spirit which gives it marvelous grandeur... Its spiritual elevation of thought and tenderness of yearning are compared to Isaiah...' (focuses on content and impact)",
+          "severity": "major"
+        },
+        {
+          "type": "omission",
+          "description": "Source B omits any discussion of the physical manuscript, its revisions, the creation of the reading copy, the printing process, or the document's provenance, which are central to Source A's description.",
+          "quote_reference": "Source B: 'It was delivered on March 4, 1865.' (focuses on delivery and content) vs. Source A: 'The manuscript appears to be a fair copy... Lincoln revised the address's ending by pasting a slip of paper... Both the manuscript and the reading copy were presented by Lincoln to John Hay...' (focuses on physical document and history)",
+          "severity": "major"
+        }
+      ],
+      "reasoning": "The sources do not contradict each other on any specific point, but they cover entirely different aspects of the Second Inaugural Address. Source A focuses on the physical document's creation and history, while Source B focuses on its content and impact. The significant omissions in each source regarding the other's primary subject matter lead to a moderate consistency score, as they do not provide a unified or corroborating narrative.",
+      "confidence": "high",
+      "metadata": {
+        "event": "Second Inaugural Address",
+        "source_a_author": "None",
+        "source_b_author": "Ketcham, Henry",
+        "model": "gemini/gemini-2.5-flash",
+        "temperature": 0.0
+      }
+    }
+  },
+  {
+    "event": "Second Inaugural Address",
+    "source_a": {
+      "author": "None",
+      "id": "loc_mal.4361300"
+    },
+    "source_b": {
+      "author": "Morse, John T., Jr. (John Torrey), 1840-1937",
+      "id": "gutenberg_12801"
+    },
+    "evaluation": {
+      "consistency_score": 60,
+      "contradictions": [
+        {
+          "type": "omission",
+          "description": "Source A provides extensive details about the physical manuscript and reading copy of the address, including its revisions, creation process, and historical provenance. However, it entirely omits any discussion of the actual content of the Second Inaugural Address, its historical context, Lincoln's motivations for the speech, or its public reception.",
+          "quote_reference": "Source A claims: 'The document provided is described as the 'only known manuscript' of Lincoln's famous Second Inaugural Address.' (This source focuses solely on the physical document and its textual history, not its content or impact, which is the primary focus of Source B).",
+          "severity": "major"
+        },
+        {
+          "type": "omission",
+          "description": "Source B provides a detailed account of the content of the Second Inaugural Address, its historical context, Lincoln's anxieties and motivations, and its reception. However, it entirely omits any discussion of the physical manuscript, its revisions, the creation of Lincoln's personal reading copy, or the provenance of these documents.",
+          "quote_reference": "Source B claims: 'The Fourth of March was close at hand when Mr. Lincoln was a second time to address the people.' (This source focuses solely on the speech's message and context, not its physical form or textual development, which is the primary focus of Source A).",
+          "severity": "major"
+        }
+      ],
+      "reasoning": "The sources do not contain any direct factual or interpretive contradictions. However, they focus on entirely different aspects of the 'Second Inaugural Address' \u2013 one on the physical documents and their history, the other on the speech's content and context. This leads to significant omissions in each source regarding the other's primary focus, which are classified as major omissions, thus lowering the overall consistency score despite the lack of direct conflict.",
+      "confidence": "high",
+      "metadata": {
+        "event": "Second Inaugural Address",
+        "source_a_author": "None",
+        "source_b_author": "Morse, John T., Jr. (John Torrey), 1840-1937",
+        "model": "gemini/gemini-2.5-flash",
+        "temperature": 0.0
+      }
+    }
+  },
+  {
+    "event": "Second Inaugural Address",
+    "source_a": {
+      "author": "None",
+      "id": "loc_mal.4361300"
+    },
+    "source_b": {
+      "author": "Browne, Francis F. (Francis Fisher), 1843-1913",
+      "id": "gutenberg_14004"
+    },
+    "evaluation": {
+      "consistency_score": 85,
+      "contradictions": [
+        {
+          "type": "omission",
+          "description": "Source A provides extensive details about the physical creation, revision, and provenance of the Second Inaugural Address documents (manuscript and reading copy), but completely omits any mention of the actual content, themes, or delivery of the speech itself.",
+          "quote_reference": "Source B states: 'The address was delivered on inauguration day, after Lincoln stepped forward to take the oath of office. Lincoln paused before speaking, as though thronging memories impeded utterance. It was read in a voice described as clear and strong, but touched with pathos. It is characterized as an 'eloquent and imperishable composition'.' (This is just one example of the extensive content details omitted by Source A).",
+          "severity": "major"
+        },
+        {
+          "type": "omission",
+          "description": "Source B provides a detailed account of the content, delivery, and reception of the Second Inaugural Address, but omits any information regarding the physical manuscript, its revisions, the creation of Lincoln's reading copy, or the historical handling and provenance of these documents.",
+          "quote_reference": "Source A states: 'The document provided is described as the 'only known manuscript' of Lincoln's famous Second Inaugural Address. The manuscript appears to be a fair copy, intended as a reading copy... Lincoln revised the address's ending by pasting a slip of paper (tab) over the last two lines... Both the manuscript and the reading copy were presented by Lincoln to John Hay, and later by Hay's family to the Library of Congress in 1916.' (This is just one example of the extensive document details omitted by Source B).",
+          "severity": "major"
+        }
+      ],
+      "reasoning": "The sources do not contain any direct factual or interpretive contradictions. They focus on different, complementary aspects of the same historical event: Source A on the physical documents and their creation, and Source B on the speech's content and delivery. The score reflects high consistency due to the absence of conflicting claims, tempered slightly by the significant, yet non-contradictory, omissions in each source's scope.",
+      "confidence": "high",
+      "metadata": {
+        "event": "Second Inaugural Address",
+        "source_a_author": "None",
+        "source_b_author": "Browne, Francis F. (Francis Fisher), 1843-1913",
+        "model": "gemini/gemini-2.5-flash",
+        "temperature": 0.0
+      }
+    }
+  },
+  {
+    "event": "Second Inaugural Address",
+    "source_a": {
+      "author": "None",
+      "id": "loc_mal.4361300"
+    },
+    "source_b": {
+      "author": "Charnwood, Godfrey Rathbone Benson, Baron, 1864-1945",
+      "id": "gutenberg_18379"
+    },
+    "evaluation": {
+      "consistency_score": 60,
+      "contradictions": [
+        {
+          "type": "omission",
+          "description": "Source A provides no details about the content, themes, context, or reception of the Second Inaugural Address, which are the primary focus of Source B.",
+          "quote_reference": "N/A (absence of information)",
+          "severity": "major"
+        },
+        {
+          "type": "omission",
+          "description": "Source B provides no details about the physical manuscript, its creation, revisions, or provenance, which are the primary focus of Source A.",
+          "quote_reference": "N/A (absence of information)",
+          "severity": "major"
+        }
+      ],
+      "reasoning": "The sources do not contain any direct factual or interpretive contradictions. However, they focus on entirely different aspects of the Second Inaugural Address. Source A details the physical manuscript and its creation, while Source B describes the speech's content, context, and reception. This results in each source omitting the significant details that form the core subject matter of the other, leading to a moderate consistency score.",
+      "confidence": "high",
+      "metadata": {
+        "event": "Second Inaugural Address",
+        "source_a_author": "None",
+        "source_b_author": "Charnwood, Godfrey Rathbone Benson, Baron, 1864-1945",
+        "model": "gemini/gemini-2.5-flash",
+        "temperature": 0.0
+      }
+    }
+  }
+]

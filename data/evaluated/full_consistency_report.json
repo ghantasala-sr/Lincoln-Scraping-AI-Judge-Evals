@@ -1,0 +1,236 @@
+[
+  {
+    "event": "Election Night 1860",
+    "source_b": "Ketcham, Henry",
+    "mean_score": 71.0,
+    "std_dev": 5.830951894845301,
+    "scores": [
+      65,
+      75,
+      70,
+      65,
+      80
+    ]
+  },
+  {
+    "event": "Election Night 1860",
+    "source_b": "Morse, John T., Jr. (John Torrey), 1840-1937",
+    "mean_score": 70.2,
+    "std_dev": 5.344155686354955,
+    "scores": [
+      65,
+      75,
+      65,
+      68,
+      78
+    ]
+  },
+  {
+    "event": "Election Night 1860",
+    "source_b": "Browne, Francis F. (Francis Fisher), 1843-1913",
+    "mean_score": 64.0,
+    "std_dev": 2.0,
+    "scores": [
+      65,
+      60,
+      65,
+      65,
+      65
+    ]
+  },
+  {
+    "event": "Election Night 1860",
+    "source_b": "Charnwood, Godfrey Rathbone Benson, Baron, 1864-1945",
+    "mean_score": 75.6,
+    "std_dev": 8.452218643646177,
+    "scores": [
+      60,
+      78,
+      80,
+      85,
+      75
+    ]
+  },
+  {
+    "event": "Fort Sumter Decision",
+    "source_b": "Hay, John, 1838-1905",
+    "mean_score": 67.0,
+    "std_dev": 9.273618495495704,
+    "scores": [
+      60,
+      65,
+      65,
+      60,
+      85
+    ]
+  },
+  {
+    "event": "Fort Sumter Decision",
+    "source_b": "Ketcham, Henry",
+    "mean_score": 52.0,
+    "std_dev": 8.717797887081348,
+    "scores": [
+      45,
+      45,
+      65,
+      45,
+      60
+    ]
+  },
+  {
+    "event": "Fort Sumter Decision",
+    "source_b": "Morse, John T., Jr. (John Torrey), 1840-1937",
+    "mean_score": 52.0,
+    "std_dev": 12.884098726725126,
+    "scores": [
+      35,
+      55,
+      40,
+      60,
+      70
+    ]
+  },
+  {
+    "event": "Fort Sumter Decision",
+    "source_b": "Browne, Francis F. (Francis Fisher), 1843-1913",
+    "mean_score": 69.0,
+    "std_dev": 4.898979485566356,
+    "scores": [
+      75,
+      65,
+      65,
+      75,
+      65
+    ]
+  },
+  {
+    "event": "Fort Sumter Decision",
+    "source_b": "Charnwood, Godfrey Rathbone Benson, Baron, 1864-1945",
+    "mean_score": 63.2,
+    "std_dev": 5.03587132480567,
+    "scores": [
+      65,
+      55,
+      68,
+      68,
+      60
+    ]
+  },
+  {
+    "event": "Gettysburg Address",
+    "source_b": "Hay, John, 1838-1905",
+    "mean_score": 62.0,
+    "std_dev": 22.271057451320086,
+    "scores": [
+      60,
+      95,
+      25,
+      65,
+      65
+    ]
+  },
+  {
+    "event": "Gettysburg Address",
+    "source_b": "Ketcham, Henry",
+    "mean_score": 63.0,
+    "std_dev": 2.449489742783178,
+    "scores": [
+      65,
+      65,
+      60,
+      65,
+      60
+    ]
+  },
+  {
+    "event": "Gettysburg Address",
+    "source_b": "Morse, John T., Jr. (John Torrey), 1840-1937",
+    "mean_score": 73.0,
+    "std_dev": 9.797958971132712,
+    "scores": [
+      65,
+      65,
+      85,
+      85,
+      65
+    ]
+  },
+  {
+    "event": "Gettysburg Address",
+    "source_b": "Browne, Francis F. (Francis Fisher), 1843-1913",
+    "mean_score": 69.0,
+    "std_dev": 11.575836902790225,
+    "scores": [
+      80,
+      55,
+      60,
+      65,
+      85
+    ]
+  },
+  {
+    "event": "Gettysburg Address",
+    "source_b": "Charnwood, Godfrey Rathbone Benson, Baron, 1864-1945",
+    "mean_score": 68.0,
+    "std_dev": 8.717797887081348,
+    "scores": [
+      85,
+      60,
+      65,
+      65,
+      65
+    ]
+  },
+  {
+    "event": "Second Inaugural Address",
+    "source_b": "Ketcham, Henry",
+    "mean_score": 71.0,
+    "std_dev": 8.0,
+    "scores": [
+      65,
+      75,
+      85,
+      65,
+      65
+    ]
+  },
+  {
+    "event": "Second Inaugural Address",
+    "source_b": "Morse, John T., Jr. (John Torrey), 1840-1937",
+    "mean_score": 71.0,
+    "std_dev": 12.0,
+    "scores": [
+      65,
+      65,
+      95,
+      65,
+      65
+    ]
+  },
+  {
+    "event": "Second Inaugural Address",
+    "source_b": "Browne, Francis F. (Francis Fisher), 1843-1913",
+    "mean_score": 78.0,
+    "std_dev": 17.204650534085253,
+    "scores": [
+      55,
+      75,
+      100,
+      95,
+      65
+    ]
+  },
+  {
+    "event": "Second Inaugural Address",
+    "source_b": "Charnwood, Godfrey Rathbone Benson, Baron, 1864-1945",
+    "mean_score": 74.6,
+    "std_dev": 15.317963311093287,
+    "scores": [
+      68,
+      55,
+      65,
+      95,
+      90
+    ]
+  }
+]

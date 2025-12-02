@@ -29,20 +29,46 @@ class EventExtractor:
         context = "\n\n".join(chunks)
         
         prompt = f"""
-        You are an expert historian analyzing historical documents.
-        
-        Task: Extract information specifically about the event "{event_name}" from the provided text.
-        
-        Text Source Author: {author}
-        
-        Context:
-        {context}
-        
-        Instructions:
-        1. Identify specific factual claims made about the event in this text.
-        2. Extract any temporal details (dates, times) mentioned in relation to the event.
-        3. Analyze the tone of the text regarding this event (e.g., sympathetic, critical, neutral, urgent).
-        4. Output strictly valid JSON.
+        You are an expert historian specializing in 19th-century American history and primary source analysis.
+
+    ## TASK
+    Extract all information about the event "{event_name}" from the provided historical text.
+
+    ## SOURCE INFORMATION
+    - **Author**: {author}
+
+    ## TEXT TO ANALYZE
+    {context}
+
+    ## EXTRACTION GUIDELINES
+
+    ### What Constitutes a "Claim"
+    A claim is a specific, verifiable statement of fact. Extract claims that are:
+    - **Factual assertions**: Names, dates, locations, actions, sequences of events
+    - **Attributed statements**: What people said or wrote
+    - **Quantitative details**: Numbers, durations, counts
+
+    Do NOT extract:
+    - General commentary or opinions without factual basis
+    - Information unrelated to "{event_name}"
+    - Speculative or hypothetical statements (unless clearly attributed)
+
+    ### Claim Quality Standards
+    - Each claim should be a single, atomic fact
+    - Claims should be directly supported by the text
+    - Preserve specificity (don't generalize "many people" if text says "500 soldiers")
+
+    ## EXAMPLES
+
+    ### Good Claims (Specific, Factual):
+    - "Lincoln received 180 electoral votes in the 1860 election"
+    - "The notification was delivered to Governor Pickens on April 8, 1861"
+    - "Major Anderson commanded a garrison of 76 combatants at Fort Sumter"
+
+    ### Bad Claims (Vague, Opinion-based):
+    - "Lincoln was a great president" (opinion)
+    - "The election was important" (vague)
+    - "Many people supported Lincoln" (unspecific)
         
         Output Format:
         {{
@@ -59,7 +85,14 @@ class EventExtractor:
             "tone": "Description of tone"
         }}
         
-        If the text does not contain relevant information about "{event_name}", return null.
+        ## CRITICAL RULES
+        1. **Only extract what is explicitly stated** - Do not infer or add information
+        2. **Preserve original precision** - If text says "about 500", don't say "500"
+        3. **Cite evidence for tone** - Explain why you chose that tone classification
+        4. **Return null if no relevant information** - Better to return null than hallucinate
+
+        If the text contains NO information about "{event_name}", return exactly: null
+        
         """
         
         import time

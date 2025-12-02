@@ -1,0 +1,71 @@
+{
+  "kappa_test": {
+    "kappa": 0.41176470588235303,
+    "raw_agreement": 0.8,
+    "confusion_matrix": [
+      [
+        1,
+        0
+      ],
+      [
+        2,
+        7
+      ]
+    ],
+    "llm_scores": [
+      55,
+      58,
+      60,
+      60,
+      60,
+      40,
+      45,
+      65,
+      65,
+      5
+    ],
+    "llm_labels": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      1,
+      0
+    ],
+    "human_labels": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      0
+    ],
+    "threshold": 50,
+    "interpretation": "Moderate agreement"
+  },
+  "self_consistency_test": {
+    "scores": [
+      65,
+      65,
+      65,
+      65,
+      65
+    ],
+    "mean": 65.0,
+    "std": 0.0,
+    "variance": 0.0,
+    "min": 65,
+    "max": 65,
+    "range": 0,
+    "n_runs": 5,
+    "temperature": 0.7
+  }
+}

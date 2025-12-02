@@ -8,3 +8,8 @@ lxml
 google-generativeai
 python-dotenv
 numpy
+dspy-ai
+scikit-learn
+streamlit
+plotly
+pandas

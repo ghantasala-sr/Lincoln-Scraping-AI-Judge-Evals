@@ -1,0 +1,124 @@
+{
+  "summary": {
+    "Zero-Shot": 10.291662599664216,
+    "Chain-of-Thought": 7.526016283371437,
+    "Few-Shot": 11.899842504344347
+  },
+  "winner": "Chain-of-Thought",
+  "details": {
+    "Zero-Shot": [
+      {
+        "event": "Election Night 1860",
+        "scores": [
+          85,
+          75,
+          65,
+          70,
+          75
+        ],
+        "std_dev": 6.6332495807108,
+        "mean": 74.0
+      },
+      {
+        "event": "Election Night 1860",
+        "scores": [
+          65,
+          70,
+          40,
+          65,
+          65
+        ],
+        "std_dev": 10.677078252031311,
+        "mean": 61.0
+      },
+      {
+        "event": "Election Night 1860",
+        "scores": [
+          90,
+          85,
+          65,
+          55,
+          85
+        ],
+        "std_dev": 13.564659966250536,
+        "mean": 76.0
+      }
+    ],
+    "Chain-of-Thought": [
+      {
+        "event": "Election Night 1860",
+        "scores": [
+          80,
+          80,
+          75,
+          50,
+          70
+        ],
+        "std_dev": 11.135528725660043,
+        "mean": 71.0
+      },
+      {
+        "event": "Election Night 1860",
+        "scores": [
+          65,
+          75,
+          70,
+          60,
+          65
+        ],
+        "std_dev": 5.0990195135927845,
+        "mean": 67.0
+      },
+      {
+        "event": "Election Night 1860",
+        "scores": [
+          85,
+          70,
+          85,
+          88,
+          80
+        ],
+        "std_dev": 6.343500610861482,
+        "mean": 81.6
+      }
+    ],
+    "Few-Shot": [
+      {
+        "event": "Election Night 1860",
+        "scores": [
+          30,
+          95,
+          60,
+          75,
+          90
+        ],
+        "std_dev": 23.45207879911715,
+        "mean": 70.0
+      },
+      {
+        "event": "Election Night 1860",
+        "scores": [
+          65,
+          65,
+          75,
+          65,
+          90
+        ],
+        "std_dev": 9.797958971132712,
+        "mean": 72.0
+      },
+      {
+        "event": "Election Night 1860",
+        "scores": [
+          90,
+          90,
+          90,
+          95,
+          95
+        ],
+        "std_dev": 2.449489742783178,
+        "mean": 92.0
+      }
+    ]
+  }
+}

@@ -1,0 +1,480 @@
+[
+  {
+    "event": "Election Night 1860",
+    "source_a": {
+      "event": "Election Night 1860",
+      "author": "Abraham Lincoln",
+      "claims": [
+        "Abraham Lincoln was elected President during this event.",
+        "The election's outcome immediately prompted concerns among some, leading to calls for Lincoln to make a public declaration to allay anxieties and 'disarm mischief makers'.",
+        "Leading up to the election, negative circulars were distributed, portraying Lincoln as a 'dangerous radical' and an 'enemy of the institutions of the South', which were seen as unsettling and influential."
+      ],
+      "temporal_details": {
+        "date": "Occurred before November 7, 1860",
+        "time": "Not specified"
+      },
+      "tone": "The text, written by Lincoln after the election, conveys a resolute, unyielding, and somewhat dismissive tone towards post-election demands for a conciliatory statement. Lincoln shows self-respect and disinclination to 'fawn around' those he perceives as 'respectable scoundrels' who initiated pre-election negativity and subsequent 'commercial or financial depression'.",
+      "source_id": "loc_mal0440500",
+      "source_title": "Abraham Lincoln papers: Series 1. General Correspondence. 1833-1916: Abraham Lincoln to Truman Smith, Saturday, November 10, 1860 (Lincoln will not issue a public statement to reassure the South)",
+      "pipeline": "hybrid"
+    },
+    "source_b": {
+      "event": "Election Night 1860",
+      "author": "Ketcham, Henry",
+      "claims": [
+        "The election occurred on November 6, 1860.",
+        "Lincoln received 1,866,452 popular votes and 180 electoral votes.",
+        "Stephen A. Douglas received 1,375,157 popular votes and 12 electoral votes.",
+        "John C. Breckinridge received 847,953 popular votes and 72 electoral votes.",
+        "John Bell received 590,631 popular votes and 39 electoral votes.",
+        "Lincoln carried all the free states, except in New Jersey where the electoral vote was divided, with him receiving four out of seven.",
+        "In the fifteen slave states, Lincoln received no electoral vote.",
+        "In ten states, not one person had voted for Lincoln.",
+        "Of the 303 electoral votes, Lincoln received 180, while the aggregate of all against him numbered 123, giving him an absolute majority of 57.",
+        "Just after his election, when the news had been coming in thick and fast all day, Lincoln went home to rest, feeling tired.",
+        "While resting, Lincoln saw himself reflected in a swinging mirror with two separate and distinct images, one face being about five shades paler than the other.",
+        "Lincoln's wife thought the double image was 'a sign' that he would be elected to a second term but would not live to see its end.",
+        "Lincoln was oppressed with the belief that he would not live to see the end of the national crisis.",
+        "In Washington that night, when asked 'Who is this man Lincoln, anyhow?', Douglas replied, 'There won't be a tar barrel left in Illinois' tonight.'"
+      ],
+      "temporal_details": {
+        "date": "November 6, 1860",
+        "time": "Throughout the day and night (news coming in thick and fast all day, Douglas's comment 'that night', Lincoln's experience 'just after my election')"
+      },
+      "tone": "Primarily factual and descriptive regarding the election results, shifting to personal, reflective, and somewhat somber or foreboding when discussing Lincoln's private post-election experience and his premonitions.",
+      "source_id": "gutenberg_6811",
+      "source_title": "The Life of Abraham Lincoln",
+      "pipeline": "hybrid"
+    },
+    "human_label": 0
+  },
+  {
+    "event": "Election Night 1860",
+    "source_a": {
+      "event": "Election Night 1860",
+      "author": "Abraham Lincoln",
+      "claims": [
+        "Abraham Lincoln was elected President during this event.",
+        "The election's outcome immediately prompted concerns among some, leading to calls for Lincoln to make a public declaration to allay anxieties and 'disarm mischief makers'.",
+        "Leading up to the election, negative circulars were distributed, portraying Lincoln as a 'dangerous radical' and an 'enemy of the institutions of the South', which were seen as unsettling and influential."
+      ],
+      "temporal_details": {
+        "date": "Occurred before November 7, 1860",
+        "time": "Not specified"
+      },
+      "tone": "The text, written by Lincoln after the election, conveys a resolute, unyielding, and somewhat dismissive tone towards post-election demands for a conciliatory statement. Lincoln shows self-respect and disinclination to 'fawn around' those he perceives as 'respectable scoundrels' who initiated pre-election negativity and subsequent 'commercial or financial depression'.",
+      "source_id": "loc_mal0440500",
+      "source_title": "Abraham Lincoln papers: Series 1. General Correspondence. 1833-1916: Abraham Lincoln to Truman Smith, Saturday, November 10, 1860 (Lincoln will not issue a public statement to reassure the South)",
+      "pipeline": "hybrid"
+    },
+    "source_b": {
+      "event": "Election Night 1860",
+      "author": "Morse, John T., Jr. (John Torrey), 1840-1937",
+      "claims": [
+        "Abraham Lincoln was elected President.",
+        "Abraham Lincoln was the choice of a minority of voters.",
+        "Abraham Lincoln's election was the signal for secession.",
+        "John C. Breckinridge announced the election of Lincoln."
+      ],
+      "temporal_details": {
+        "date": "1860",
+        "time": "Night of election"
+      },
+      "tone": "Neutral, factual, and analytical, reporting the immediate outcomes and consequences of the election.",
+      "source_id": "gutenberg_12801",
+      "source_title": "Abraham Lincoln, Volume II",
+      "pipeline": "hybrid"
+    },
+    "human_label": 1
+  },
+  {
+    "event": "Election Night 1860",
+    "source_a": {
+      "event": "Election Night 1860",
+      "author": "Abraham Lincoln",
+      "claims": [
+        "Abraham Lincoln was elected President during this event.",
+        "The election's outcome immediately prompted concerns among some, leading to calls for Lincoln to make a public declaration to allay anxieties and 'disarm mischief makers'.",
+        "Leading up to the election, negative circulars were distributed, portraying Lincoln as a 'dangerous radical' and an 'enemy of the institutions of the South', which were seen as unsettling and influential."
+      ],
+      "temporal_details": {
+        "date": "Occurred before November 7, 1860",
+        "time": "Not specified"
+      },
+      "tone": "The text, written by Lincoln after the election, conveys a resolute, unyielding, and somewhat dismissive tone towards post-election demands for a conciliatory statement. Lincoln shows self-respect and disinclination to 'fawn around' those he perceives as 'respectable scoundrels' who initiated pre-election negativity and subsequent 'commercial or financial depression'.",
+      "source_id": "loc_mal0440500",
+      "source_title": "Abraham Lincoln papers: Series 1. General Correspondence. 1833-1916: Abraham Lincoln to Truman Smith, Saturday, November 10, 1860 (Lincoln will not issue a public statement to reassure the South)",
+      "pipeline": "hybrid"
+    },
+    "source_b": {
+      "event": "Election Night 1860",
+      "author": "Browne, Francis F. (Francis Fisher), 1843-1913",
+      "claims": [
+        "Abraham Lincoln was elected President of the United States.",
+        "Lincoln's victory was aided by an unexpected division in the Democratic party.",
+        "The Democratic party had nominated Stephen Douglas, but an extreme slavery faction nominated John C. Breckenridge.",
+        "A 'Constitutional Union Party' also nominated John Bell of Tennessee.",
+        "There were four presidential tickets in the field, with the contest largely determined on sectional lines due to slavery.",
+        "Lincoln secured a substantial majority of the electoral vote (180 to 123).",
+        "The popular vote was nearly a million (930,170) more against him than for him.",
+        "Fifteen states gave Lincoln no electoral vote, and in nine states, he received no popular vote.",
+        "The slave states, or 'the Solid South,' were squarely against Lincoln.",
+        "Lincoln felt regret and apprehension regarding the election results but faced the future without dismay and with calm resolve.",
+        "Lincoln took no active part in the campaign, remaining quietly at his home in Springfield.",
+        "Immediately after the election, Lincoln was beset by visitors from all parts of the country.",
+        "The large number of visitors led to the Executive Chamber in the State House being designated as his reception room.",
+        "Lincoln met a diverse range of visitors from morning until night with conscientious care and unwearying patience."
+      ],
+      "temporal_details": {
+        "date": "1860-11-06",
+        "time": "Election decided; immediate aftermath with visitors from morning until night"
+      },
+      "tone": "Descriptive and appreciative, highlighting Lincoln's character (calm, resolved, patient) and the historical significance of the event and its immediate aftermath.",
+      "source_id": "gutenberg_14004",
+      "source_title": "The Every-day Life of Abraham LincolnA Narrative And Descriptive Biography With Pen-Pictures And PersonalRecollections By Those Who Knew Him",
+      "pipeline": "hybrid"
+    },
+    "human_label": 1
+  },
+  {
+    "event": "Election Night 1860",
+    "source_a": {
+      "event": "Election Night 1860",
+      "author": "Abraham Lincoln",
+      "claims": [
+        "Abraham Lincoln was elected President during this event.",
+        "The election's outcome immediately prompted concerns among some, leading to calls for Lincoln to make a public declaration to allay anxieties and 'disarm mischief makers'.",
+        "Leading up to the election, negative circulars were distributed, portraying Lincoln as a 'dangerous radical' and an 'enemy of the institutions of the South', which were seen as unsettling and influential."
+      ],
+      "temporal_details": {
+        "date": "Occurred before November 7, 1860",
+        "time": "Not specified"
+      },
+      "tone": "The text, written by Lincoln after the election, conveys a resolute, unyielding, and somewhat dismissive tone towards post-election demands for a conciliatory statement. Lincoln shows self-respect and disinclination to 'fawn around' those he perceives as 'respectable scoundrels' who initiated pre-election negativity and subsequent 'commercial or financial depression'.",
+      "source_id": "loc_mal0440500",
+      "source_title": "Abraham Lincoln papers: Series 1. General Correspondence. 1833-1916: Abraham Lincoln to Truman Smith, Saturday, November 10, 1860 (Lincoln will not issue a public statement to reassure the South)",
+      "pipeline": "hybrid"
+    },
+    "source_b": {
+      "event": "Election Night 1860",
+      "author": "Charnwood, Godfrey Rathbone Benson, Baron, 1864-1945",
+      "claims": [
+        "On the night of November 6, Lincoln sat alone with the operator in the telegraph box at Springfield.",
+        "Lincoln was receiving the results of the elections of Presidential electors in the various States.",
+        "Long before the returns were complete, Lincoln's knowledge of such matters made him sure of his return (victory).",
+        "Before leaving the telegraph box, Lincoln had solved in principle the first and by no means least important problem of his Presidency: the choice of a Cabinet.",
+        "The victory was in one aspect far from complete, as the new President was elected by a minority of the American people in terms of popular votes.",
+        "Lincoln had a large majority over Douglas in popular votes.",
+        "If Douglas had received the votes given for the Southern Democrat, Breckinridge, he would have had a considerable majority over Lincoln, though the Electoral College would still have kept him out of the Presidency.",
+        "Lincoln's votes were drawn only from the Northern States; he carried almost all the free States and no others.",
+        "For the first time in American history, the united North had used its superior numbers to outvote the South.",
+        "The election of Lincoln was greeted throughout the South with a howl of derision.",
+        "Within a few days of the election of Lincoln, the first step in the movement of Secession had been taken."
+      ],
+      "temporal_details": {
+        "date": "1860-11-06",
+        "time": "Night (receiving results, before leaving the box)"
+      },
+      "tone": "Analytical and factual, detailing the events and immediate historical consequences of Lincoln's election, including the South's negative reaction and the prompt start of secession.",
+      "source_id": "gutenberg_18379",
+      "source_title": "Abraham Lincoln",
+      "pipeline": "hybrid"
+    },
+    "human_label": 1
+  },
+  {
+    "event": "Fort Sumter Decision",
+    "source_a": {
+      "event": "Fort Sumter Decision",
+      "author": "Robert S. Chew",
+      "claims": [
+        "The President of the United States (Abraham Lincoln) decided to notify Governor Pickens of an attempt to supply Fort Sumter with provisions only.",
+        "The President's notification specified that if the resupply attempt was not resisted, no effort to introduce men, arms, or ammunition would be made without further notice, or in case of an attack upon the Fort.",
+        "Instructions and the message carried by Robert S. Chew to Governor Pickens were drafted by Abraham Lincoln.",
+        "The formal orders for this mission were issued by the War Department on April 6, 1861.",
+        "Robert S. Chew was dispatched to Charleston with orders to deliver this notification to Governor Pickens, provided Fort Sumter had not been evacuated, surrendered, or attacked.",
+        "Upon arriving in Charleston on April 8, 1861, Chew confirmed that Fort Sumter had neither been surrendered, evacuated, nor attacked.",
+        "Chew successfully read the notification to Governor Pickens and delivered a copy of it.",
+        "Governor Pickens stated he would submit the notification to General Beauregard, who was responsible for military operations in the vicinity.",
+        "Chew was not authorized to receive any communication in reply from Governor Pickens."
+      ],
+      "temporal_details": {
+        "date": "April 6, 1861 (decision/orders issued); April 8, 1861 (notification delivered)",
+        "time": "6 P.M. (departure from Washington, arrival in Charleston)"
+      },
+      "tone": "The tone is neutral, factual, and procedural. It is a formal report detailing the execution of official orders regarding a diplomatic-military action, without expressing personal sentiment or judgment.",
+      "source_id": "loc_mal.0882800",
+      "source_title": "Abraham Lincoln papers: Series 1. General Correspondence. 1833-1916: Robert S. Chew to Abraham Lincoln, Monday, April 08, 1861 (Report of meeting with Gov. Pickens)",
+      "pipeline": "hybrid"
+    },
+    "source_b": {
+      "event": "Fort Sumter Decision",
+      "author": "Hay, John, 1838-1905",
+      "claims": [
+        "Lieutenant Robert Anderson was in command of Fort Sumter in April, 1861.",
+        "Robert Anderson, who commanded Fort Sumter, was the same person who mustered out Abraham Lincoln's company from service on June 16, 1832."
+      ],
+      "temporal_details": {
+        "date": "April, 1861",
+        "time": null
+      },
+      "tone": "Neutral and factual, used to establish a historical connection between Lincoln's early military experience and a significant later event through the figure of Robert Anderson.",
+      "source_id": "gutenberg_6812",
+      "source_title": "Abraham Lincoln: a History \u2014 Volume 01",
+      "pipeline": "hybrid"
+    },
+    "human_label": 1
+  },
+  {
+    "event": "Fort Sumter Decision",
+    "source_a": {
+      "event": "Fort Sumter Decision",
+      "author": "Robert S. Chew",
+      "claims": [
+        "The President of the United States (Abraham Lincoln) decided to notify Governor Pickens of an attempt to supply Fort Sumter with provisions only.",
+        "The President's notification specified that if the resupply attempt was not resisted, no effort to introduce men, arms, or ammunition would be made without further notice, or in case of an attack upon the Fort.",
+        "Instructions and the message carried by Robert S. Chew to Governor Pickens were drafted by Abraham Lincoln.",
+        "The formal orders for this mission were issued by the War Department on April 6, 1861.",
+        "Robert S. Chew was dispatched to Charleston with orders to deliver this notification to Governor Pickens, provided Fort Sumter had not been evacuated, surrendered, or attacked.",
+        "Upon arriving in Charleston on April 8, 1861, Chew confirmed that Fort Sumter had neither been surrendered, evacuated, nor attacked.",
+        "Chew successfully read the notification to Governor Pickens and delivered a copy of it.",
+        "Governor Pickens stated he would submit the notification to General Beauregard, who was responsible for military operations in the vicinity.",
+        "Chew was not authorized to receive any communication in reply from Governor Pickens."
+      ],
+      "temporal_details": {
+        "date": "April 6, 1861 (decision/orders issued); April 8, 1861 (notification delivered)",
+        "time": "6 P.M. (departure from Washington, arrival in Charleston)"
+      },
+      "tone": "The tone is neutral, factual, and procedural. It is a formal report detailing the execution of official orders regarding a diplomatic-military action, without expressing personal sentiment or judgment.",
+      "source_id": "loc_mal.0882800",
+      "source_title": "Abraham Lincoln papers: Series 1. General Correspondence. 1833-1916: Robert S. Chew to Abraham Lincoln, Monday, April 08, 1861 (Report of meeting with Gov. Pickens)",
+      "pipeline": "hybrid"
+    },
+    "source_b": {
+      "event": "Fort Sumter Decision",
+      "author": "Ketcham, Henry",
+      "claims": [
+        "Major Anderson, in command of Fort Sumter, was beleaguered with a handful of men (76 combatants, 128 total), insufficient ammunition, and nearly out of provisions.",
+        "President Lincoln decided to 'send bread to Sumter,' considering it a non-hostile act.",
+        "Lincoln, inheriting complications from the Buchanan administration, had promised Governor Pickens of South Carolina prior notice before attempting to relieve Sumter.",
+        "Lincoln sent notice to Governor Pickens that an attempt to provision Sumter would be made, peaceably if possible, or by force otherwise.",
+        "General Beauregard, in command of Southern military forces, responded by sending Major Anderson a summons to surrender.",
+        "Major Anderson replied he would surrender on honorable terms by April 15th if he received no further direction from Washington and was not succored.",
+        "Beauregard intercepted Major Anderson's mail before notifying him of hostilities, a characteristic attributed to the Southern general.",
+        "Beauregard gave notice to Major Anderson that he would open fire on Fort Sumter.",
+        "Lincoln's adherence to his inaugural promises (holding forts, not being the aggressor) ensured that if war began, it would be initiated by the South, by firing on the flag.",
+        "The author asserts that 'Beauregard got the fort, the President got nearly everything else' and 'Beauregard got the fort, but Lincoln got the game,' highlighting Lincoln's strategic victory in uniting the North."
+      ],
+      "temporal_details": {
+        "date": "April 12-14, 1861 (events leading to and including the fall of the fort); Major Anderson's conditional surrender by April 15th, 1861",
+        "time": "3:30 P. M. on April 12th, 1861 (Beauregard's notice to open fire); 1:00 P. M. on April 13th, 1861 (flag fell); 8:00 P. M. on April 13th, 1861 (surrender terms arranged)"
+      },
+      "tone": "The tone is admiring and strategic regarding Lincoln's handling of the situation, portraying him as a far-seeing statesman who, through his decision to provision Fort Sumter, successfully forced the South to initiate the war. It describes the events as 'dramatic' and 'epoch-making' and highlights the 'amazing' unifying effect on the North, while criticizing the South's aggression and actions.",
+      "source_id": "gutenberg_6811",
+      "source_title": "The Life of Abraham Lincoln",
+      "pipeline": "hybrid"
+    },
+    "human_label": 1
+  },
+  {
+    "event": "Fort Sumter Decision",
+    "source_a": {
+      "event": "Fort Sumter Decision",
+      "author": "Robert S. Chew",
+      "claims": [
+        "The President of the United States (Abraham Lincoln) decided to notify Governor Pickens of an attempt to supply Fort Sumter with provisions only.",
+        "The President's notification specified that if the resupply attempt was not resisted, no effort to introduce men, arms, or ammunition would be made without further notice, or in case of an attack upon the Fort.",
+        "Instructions and the message carried by Robert S. Chew to Governor Pickens were drafted by Abraham Lincoln.",
+        "The formal orders for this mission were issued by the War Department on April 6, 1861.",
+        "Robert S. Chew was dispatched to Charleston with orders to deliver this notification to Governor Pickens, provided Fort Sumter had not been evacuated, surrendered, or attacked.",
+        "Upon arriving in Charleston on April 8, 1861, Chew confirmed that Fort Sumter had neither been surrendered, evacuated, nor attacked.",
+        "Chew successfully read the notification to Governor Pickens and delivered a copy of it.",
+        "Governor Pickens stated he would submit the notification to General Beauregard, who was responsible for military operations in the vicinity.",
+        "Chew was not authorized to receive any communication in reply from Governor Pickens."
+      ],
+      "temporal_details": {
+        "date": "April 6, 1861 (decision/orders issued); April 8, 1861 (notification delivered)",
+        "time": "6 P.M. (departure from Washington, arrival in Charleston)"
+      },
+      "tone": "The tone is neutral, factual, and procedural. It is a formal report detailing the execution of official orders regarding a diplomatic-military action, without expressing personal sentiment or judgment.",
+      "source_id": "loc_mal.0882800",
+      "source_title": "Abraham Lincoln papers: Series 1. General Correspondence. 1833-1916: Robert S. Chew to Abraham Lincoln, Monday, April 08, 1861 (Report of meeting with Gov. Pickens)",
+      "pipeline": "hybrid"
+    },
+    "source_b": {
+      "event": "Fort Sumter Decision",
+      "author": "Morse, John T., Jr. (John Torrey), 1840-1937",
+      "claims": [
+        "Robert Anderson refused to surrender Sumter.",
+        "Edward Bates, Attorney-General, opposed reinforcing Sumter.",
+        "General P.G.T. Beauregard was notified by Lincoln of the purpose to reinforce Sumter.",
+        "Beauregard requested the surrender of Sumter.",
+        "Beauregard commanded the bombardment of Sumter.",
+        "James Buchanan's policy towards Fort Sumter was futile.",
+        "Simon Cameron, Secretary of War, opposed relieving Fort Sumter.",
+        "Salmon P. Chase, Secretary of Treasury, wished to reinforce Sumter.",
+        "Montgomery Blair wished to relieve Sumter and was present at a council of war regarding it.",
+        "Abraham Lincoln asked opinion of Scott as to relieving Sumter.",
+        "Lincoln asked advice of his cabinet regarding Sumter.",
+        "Lincoln promised the South to take no action without warning regarding Sumter.",
+        "Lincoln spoiled the plan to relieve Sumter by sending Powhatan to Pensacola.",
+        "Lincoln announced the intention to provision Sumter.",
+        "Lincoln admitted blame for failure concerning Sumter.",
+        "There was a question concerning Lincoln's fault in delaying to relieve Sumter.",
+        "William H. Seward offered to evacuate Sumter."
+      ],
+      "temporal_details": {
+        "date": "Early 1861, at the beginning of Lincoln's presidency",
+        "time": "Not specified, refers to the period leading up to the bombardment of Fort Sumter"
+      },
+      "tone": "Analytical and descriptive, recounting differing opinions and Lincoln's actions, including his acknowledgment of 'blame for failure' and the existence of a 'question of his fault', indicating a critical historical evaluation.",
+      "source_id": "gutenberg_12801",
+      "source_title": "Abraham Lincoln, Volume II",
+      "pipeline": "hybrid"
+    },
+    "human_label": 0
+  },
+  {
+    "event": "Fort Sumter Decision",
+    "source_a": {
+      "event": "Fort Sumter Decision",
+      "author": "Robert S. Chew",
+      "claims": [
+        "The President of the United States (Abraham Lincoln) decided to notify Governor Pickens of an attempt to supply Fort Sumter with provisions only.",
+        "The President's notification specified that if the resupply attempt was not resisted, no effort to introduce men, arms, or ammunition would be made without further notice, or in case of an attack upon the Fort.",
+        "Instructions and the message carried by Robert S. Chew to Governor Pickens were drafted by Abraham Lincoln.",
+        "The formal orders for this mission were issued by the War Department on April 6, 1861.",
+        "Robert S. Chew was dispatched to Charleston with orders to deliver this notification to Governor Pickens, provided Fort Sumter had not been evacuated, surrendered, or attacked.",
+        "Upon arriving in Charleston on April 8, 1861, Chew confirmed that Fort Sumter had neither been surrendered, evacuated, nor attacked.",
+        "Chew successfully read the notification to Governor Pickens and delivered a copy of it.",
+        "Governor Pickens stated he would submit the notification to General Beauregard, who was responsible for military operations in the vicinity.",
+        "Chew was not authorized to receive any communication in reply from Governor Pickens."
+      ],
+      "temporal_details": {
+        "date": "April 6, 1861 (decision/orders issued); April 8, 1861 (notification delivered)",
+        "time": "6 P.M. (departure from Washington, arrival in Charleston)"
+      },
+      "tone": "The tone is neutral, factual, and procedural. It is a formal report detailing the execution of official orders regarding a diplomatic-military action, without expressing personal sentiment or judgment.",
+      "source_id": "loc_mal.0882800",
+      "source_title": "Abraham Lincoln papers: Series 1. General Correspondence. 1833-1916: Robert S. Chew to Abraham Lincoln, Monday, April 08, 1861 (Report of meeting with Gov. Pickens)",
+      "pipeline": "hybrid"
+    },
+    "source_b": {
+      "event": "Fort Sumter Decision",
+      "author": "Browne, Francis F. (Francis Fisher), 1843-1913",
+      "claims": [
+        "The Confederate attack upon Fort Sumter on April 12, 1861, was the signal that civil war had actually begun.",
+        "Prior to the attack, Lincoln had maintained a conciliatory policy toward the States in rebellion.",
+        "The Confederate resort to arms and capture of forts (including Fort Sumter) decided the course of the Lincoln administration.",
+        "As a direct consequence of the attack, Lincoln issued a proclamation on April 15, 1861, calling for the immediate enlistment of 75,000 volunteers and summoning Congress to convene in an extra session on July 4.",
+        "Lincoln outlined his policy that if an unprovoked assault like the one on Fort Sumter had occurred, he would consider himself at liberty to repossess seized places and repel force by force.",
+        "Lincoln also stated that if the assault on Fort Sumter proved true, he might cause United States mails to be withdrawn from all states claiming to have seceded.",
+        "After the fall of Fort Sumter, Stephen A. Douglas publicly declared his full support for the President to preserve the Union, maintain the Government, and defend the Federal capital.",
+        "Soon after the bombardment of Fort Sumter, Lincoln held a conference with prominent Kentuckians, emphasizing that Kentucky 'must not be precipitated into secession.'"
+      ],
+      "temporal_details": {
+        "date": "April 12, 1861 (attack); April 14, 1861 (Douglas's declaration); April 15, 1861 (Lincoln's proclamation); April 17, 1861 (Virginia secession ordinance, context for Lincoln's policy); July 4, 1861 (Congress convened)",
+        "time": "Soon after bombardment for Kentucky conference; Sunday, April 14 for Douglas's call"
+      },
+      "tone": "The tone is factual and expository, detailing the event and its immediate governmental and political consequences. It conveys a sense of urgency and gravity, presenting the attack as the definitive start of the Civil War and Lincoln's subsequent actions as necessary and decisive responses to an unprovoked aggression.",
+      "source_id": "gutenberg_14004",
+      "source_title": "The Every-day Life of Abraham LincolnA Narrative And Descriptive Biography With Pen-Pictures And PersonalRecollections By Those Who Knew Him",
+      "pipeline": "hybrid"
+    },
+    "human_label": 1
+  },
+  {
+    "event": "Fort Sumter Decision",
+    "source_a": {
+      "event": "Fort Sumter Decision",
+      "author": "Robert S. Chew",
+      "claims": [
+        "The President of the United States (Abraham Lincoln) decided to notify Governor Pickens of an attempt to supply Fort Sumter with provisions only.",
+        "The President's notification specified that if the resupply attempt was not resisted, no effort to introduce men, arms, or ammunition would be made without further notice, or in case of an attack upon the Fort.",
+        "Instructions and the message carried by Robert S. Chew to Governor Pickens were drafted by Abraham Lincoln.",
+        "The formal orders for this mission were issued by the War Department on April 6, 1861.",
+        "Robert S. Chew was dispatched to Charleston with orders to deliver this notification to Governor Pickens, provided Fort Sumter had not been evacuated, surrendered, or attacked.",
+        "Upon arriving in Charleston on April 8, 1861, Chew confirmed that Fort Sumter had neither been surrendered, evacuated, nor attacked.",
+        "Chew successfully read the notification to Governor Pickens and delivered a copy of it.",
+        "Governor Pickens stated he would submit the notification to General Beauregard, who was responsible for military operations in the vicinity.",
+        "Chew was not authorized to receive any communication in reply from Governor Pickens."
+      ],
+      "temporal_details": {
+        "date": "April 6, 1861 (decision/orders issued); April 8, 1861 (notification delivered)",
+        "time": "6 P.M. (departure from Washington, arrival in Charleston)"
+      },
+      "tone": "The tone is neutral, factual, and procedural. It is a formal report detailing the execution of official orders regarding a diplomatic-military action, without expressing personal sentiment or judgment.",
+      "source_id": "loc_mal.0882800",
+      "source_title": "Abraham Lincoln papers: Series 1. General Correspondence. 1833-1916: Robert S. Chew to Abraham Lincoln, Monday, April 08, 1861 (Report of meeting with Gov. Pickens)",
+      "pipeline": "hybrid"
+    },
+    "source_b": {
+      "event": "Fort Sumter Decision",
+      "author": "Charnwood, Godfrey Rathbone Benson, Baron, 1864-1945",
+      "claims": [
+        "Major Anderson at Fort Sumter informed Lincoln, on the day after his inauguration, that he could only hold out a few weeks longer unless reinforced and provisioned.",
+        "General Scott advised Lincoln that relieving Fort Sumter would require a force of 20,000 men, which was unavailable.",
+        "The Cabinet and military/naval advisers discussed the feasibility and political advisability of provisioning Fort Sumter; naval advisers believed it possible, while military advisers warned of destruction by Confederate batteries.",
+        "Lincoln focused on the political advisability of provisioning Fort Sumter, with Blair and Chase supporting it (Chase with qualifications), and five other cabinet members, along with General Scott, recommending evacuation.",
+        "Lincoln initially reserved his decision, and the author criticizes this delay, suggesting it nearly led to his disgrace and indicated a lack of 'rough perception and vigour'.",
+        "The delay was entangled with indirect negotiations between Seward and Southern Commissioners, which ultimately proved fruitless and led to Southern perceptions of deception.",
+        "Lincoln's eventual decision to send provisions but not troops to Fort Sumter was made after Senators and Congressmen assured him of Northern support.",
+        "An announcement was sent to the Governor of South Carolina that provisions would be sent, with an assurance that if unopposed, no further steps would be taken.",
+        "The decision was considered 'the right decision' for avoiding provocation while upholding Union rights, but it was 'taken perilously late', risking humiliation.",
+        "The delay, potentially influenced by an Alabama gentleman's advice to Jefferson Davis to 'sprinkle blood' to prevent the South from returning to the Union, led to Beauregard's orders to reduce Fort Sumter.",
+        "Beauregard summoned Anderson, who replied he would surrender on April 15 if no supplies or instructions arrived.",
+        "Confederate batteries opened fire on Fort Sumter on April 12.",
+        "Fort Sumter became untenable on April 13, with relief ships appearing too late to help.",
+        "Anderson capitulated on April 14, 1861, and marched out with the honours of war."
+      ],
+      "temporal_details": {
+        "date": "Lincoln's inauguration: March 4, 1861; Anderson's message: March 5, 1861; Seward's 'Thoughts': April 1; Confederate attack: April 12; Fort untenable: April 13; Anderson's surrender: April 14, 1861; Anderson's proposed surrender if no aid: April 15",
+        "time": "Not specified beyond dates"
+      },
+      "tone": "The tone is analytical and initially critical of Lincoln's hesitation and delay in making the decision, describing it as a weakness. However, it ultimately praises his eventual handling, framing his deliberate decision-making process as a strength and calling his final choice 'the right decision', despite its lateness. The author emphasizes Lincoln's admirable and decisive role in the events leading to war.",
+      "source_id": "gutenberg_18379",
+      "source_title": "Abraham Lincoln",
+      "pipeline": "hybrid"
+    },
+    "human_label": 0
+  },
+  {
+    "event": "Gettysburg Address",
+    "source_a": {
+      "event": "Gettysburg Address",
+      "author": "None",
+      "claims": [
+        "The provided text is identified as the \u201cNicolay Copy\u201d of the Gettysburg Address.",
+        "The \u201cNicolay Copy\u201d is part of an online exhibition.",
+        "There are two drafts of the Gettysburg Address, and differences between them are indicated by emphasis type.",
+        "The Nicolay and Hay versions of the Gettysburg Address differ from the generally printed Bliss version.",
+        "A standard text of the Gettysburg Address is inscribed on the wall of the Lincoln Memorial."
+      ],
+      "temporal_details": {
+        "date": "Not explicitly stated for the event itself, but the speech text references 'Four score and seven years ago' relative to its delivery, and 'Now we are engaged in a great civil war'.",
+        "time": "Not mentioned"
+      },
+      "tone": "Neutral and informative, presenting the text of the speech and discussing its different versions and historical documentation.",
+      "source_id": "loc_gettysburg_nicolay",
+      "source_title": "Gettysburg Address (Nicolay Copy)",
+      "pipeline": "hybrid"
+    },
+    "source_b": {
+      "event": "Gettysburg Address",
+      "author": "Hay, John, 1838-1905",
+      "claims": [
+        "The Gettysburg speech is not kindred with Abraham Lincoln's inaugural addresses.",
+        "The Gettysburg speech is profoundly different from an early 'rattling stump speech' delivered by Lincoln in 1840, compared to the difference between 'The Comedy of Errors' and 'Hamlet'."
+      ],
+      "temporal_details": {
+        "date": "Not specified in this text.",
+        "time": "Not specified in this text."
+      },
+      "tone": "Neutral and comparative, using the Gettysburg Address as a benchmark to describe the stylistic differences of an earlier speech by Lincoln.",
+      "source_id": "gutenberg_6812",
+      "source_title": "Abraham Lincoln: a History \u2014 Volume 01",
+      "pipeline": "hybrid"
+    },
+    "human_label": 1
+  }
+]
