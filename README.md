@@ -1,4 +1,4 @@
-# Memory Machines — Lincoln Scraping & AI Judge Evals
+# Lincoln Scraping & AI Judge Evals
 
 An end-to-end AI pipeline that scrapes historical sources about Abraham Lincoln, extracts structured claims about key events, and uses a DSPy-powered LLM Judge to evaluate the consistency between Lincoln's own primary accounts and secondary biographical sources.
 
